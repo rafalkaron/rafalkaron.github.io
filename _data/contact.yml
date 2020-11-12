@@ -1,0 +1,25 @@
+email: 
+  id: 'rafalkaron@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  icon: "assets/icons/email.svg"
+github: 
+  id: 'rafalkaron'
+  href: 'https://www.github.com/'
+  title: 'GitHub'
+  icon: "assets/icons/github.svg"
+linkedin:
+  id: 'rafa%C5%82-karo%C5%84-39534516b'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  icon: "assets/icons/linkedin.svg"
+twitter: 
+  id: 'rafalkaron'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  icon: "assets/icons/twitter.svg"
+500px:
+  id: 'rafalkaron'
+  href: 'https://500px.com/'
+  title: '500px'
+  icon: "assets/icons/500px.svg"

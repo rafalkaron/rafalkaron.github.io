@@ -1,0 +1,31 @@
+/* Style cite elements. */
+cite {
+    font-style: italic;
+}
+
+/* Style quote elements */
+q {
+    font-style: italic;
+}
+q::before,
+q::after {
+    content: '"';
+    font-style: inherit;
+}
+
+/* Style long quote elements. */
+blockquote {
+    margin: $margin 0;
+    padding: 0 0 0 1.5rem;
+
+    display: block;
+    max-height: 70vh;
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    border-left: $border-left;
+    font-size: 1.4rem;
+}
+blockquote * {
+    font-size: 1.4rem;
+}

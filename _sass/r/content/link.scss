@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    border-bottom: 0.25rem solid $secondary-color;
+}
+
+a > abbr {
+    text-decoration: inherit;
+    border-bottom: inherit;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: $secondary-color;
+}
+
+a:hover > abbr,
+a:active > abbr,
+a:focus > abbr {
+    color: inherit;
+}

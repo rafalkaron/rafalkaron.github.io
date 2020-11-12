@@ -1,0 +1,15 @@
+/* Position paragraphs */
+p {
+    margin: $margin 0 0 0;
+    display: block;
+}
+
+/* Reduce margins after titles */
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+    margin-top: $margin-small;
+}

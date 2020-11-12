@@ -1,0 +1,120 @@
+/*** General - START */
+html {
+    font-size: 12px;
+    line-height: 1.2;
+    margin: 0;
+}
+* {
+    font-family: $main-font;
+    line-height: 1.6em;
+    text-align: left;
+    color: $text-dark;
+    font-size: 1.6rem;
+}
+/*** General - END */
+
+/*** Front Cover - START */
+div#cover-front {
+    background: $primary-color;
+    break-after: always;
+    break-inside: avoid;
+    height: 99vh;
+    display: block;
+}
+div#cover-front-content {
+    position: absolute;
+    top: 25vh;
+    width: 100%;
+    margin: 0 auto;
+}
+a#site-logo {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 18rem;
+    font-weight: normal;
+    color: $text-light;
+    text-decoration: none;
+    line-height: 0.8em;
+    font-family: $logo-font;
+    margin-left: -0.1em;
+}
+div#site-reference-container {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+a#site-reference {
+    color: $text-light;
+    text-decoration: none;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+/*** Cover - END */
+
+/*** Back Cover - START */
+div#cover-back {
+    background: $primary-color;
+    break-after: always;
+    break-inside: avoid;
+    height: 99vh;
+    display: block;
+}
+div#back-front-content {
+    position: absolute;
+    top: 25rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+div#site-reference-container {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+a#site-reference {
+    color: $text-light;
+    text-decoration: none;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+/*** Cover - END */
+
+
+/*** TOC - START */
+div#site-nav-section::before {
+    color: $primary-color;
+    font-weight: bold;
+    size: 24px;
+    content: "Contents";
+    display: block;
+}
+
+div#site-nav-section {
+    page-break-after: always;
+}
+div#toc-sections li {
+    list-style: none;
+    color: $text-dark;
+}
+#toc-sections a.nav-link {
+    text-decoration: none;
+}
+/*** TOC - END */
+
+/*** Images - START */
+img {
+    break-inside: avoid;
+}
+/*** Images - END */
+
+/* Hide site elements for printing */
+div#site-logo-container,
+div#site-nav-page,
+footer#site-footer {
+    display: none;
+}

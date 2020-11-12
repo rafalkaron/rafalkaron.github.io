@@ -1,0 +1,38 @@
+/* Style note containers */
+.note,
+.note_warning,
+.note_caution,
+.note_tip {
+    padding: 1rem 2rem;
+    background-color: $background-middle;
+    display: block;
+    border-left: $border-left;
+}
+
+/* Style note captions */
+.note::before,
+.note_warning::before,
+.note_caution::before,
+.note_tip::before {
+    white-space: pre;
+    font-size: inherit;
+    display: inline-block;
+    font-weight: bold;
+}
+
+/* Provide note captions */
+.note::before {
+    content: "NOTE: ";
+}
+
+.note_warning::before {
+    content: "WARNING: ";
+}
+
+.note_caution::before {
+    content: "CAUTION: ";
+}
+
+.note_tip::before {
+    content: "TIP: ";
+}

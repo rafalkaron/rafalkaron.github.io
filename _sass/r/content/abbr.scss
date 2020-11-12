@@ -1,0 +1,102 @@
+abbr {
+    text-decoration: none;
+    margin: inherit;
+    font-weight: inherit;
+    padding: inherit;
+    line-height: inherit;
+    font-size: inherit;
+}
+
+li,
+p {
+    abbr {
+        text-decoration: none;
+        border-bottom: 0.25rem dotted $background-middle;
+        font-size: inherit;
+    }
+}
+
+a > abbr {
+    text-decoration: inherit;
+    border-bottom: inherit;
+}
+
+abbr[title]:hover,
+abbr[title]:focus,
+abbr[title]:active {
+    color: $primary-color;
+}
+
+a > abbr[title]:hover,
+a > abbr[title]:focus,
+a > abbr[title]:active {
+    color: inherit;
+}
+
+@media only screen and (max-width: 450px) {
+    abbr[title] {
+        position: relative;
+        /* ensure consistent styling across browsers */
+        text-decoration: none;
+        border-bottom: 0.25rem dotted $background-middle;
+        font-size: inherit;
+    }
+    
+    a > abbr[title] {
+        text-decoration: inherit;
+        border-bottom: inherit;
+    }
+
+    abbr[title]:hover::after,
+    abbr[title]:focus::after {
+        content: attr(title);
+        position: absolute;
+        left: 0;
+        bottom: -30px;
+        width: auto;
+        white-space: nowrap;
+    
+        /* style tooltip */
+        background-color: $primary-color;
+        color: $text-light;
+        border-radius: $border-radius;
+        --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+        box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+        font-size: 1.3rem;
+        padding: 0.25em 0.75em;
+    }
+}
+
+@media only screen and (max-height: 450px) {
+    abbr[title] {
+        position: relative;
+        /* ensure consistent styling across browsers */
+        text-decoration: none;
+        border-bottom: 0.25rem dotted $background-middle;
+        font-size: inherit;
+    }
+    
+    a > abbr[title] {
+        text-decoration: inherit;
+        border-bottom: inherit;
+    }
+
+    abbr[title]:hover::after,
+    abbr[title]:focus::after {
+        content: attr(title);
+        position: absolute;
+        left: 0;
+        bottom: -30px;
+        width: auto;
+        white-space: nowrap;
+    
+        /* style tooltip */
+        background-color: $primary-color;
+        color: $text-light;
+        border-radius: $border-radius;
+        --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+        box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+        font-size: 1.3rem;
+        padding: 0.25em 0.75em;
+    }
+}
