@@ -11,7 +11,7 @@ I had an opportunity to work for big and medium IT companies as well for a start
 
 |     |
 |-:|:-|
-| **07.2019 – present** <br/> Jorsek | **Information Developer/Scrum Master**               |
+| **07.2019 – Present** <br/> Jorsek | **Information Developer/Scrum Master**               |
 | **04.2019 – 07.2019** <br/> Jorsek | **Information Developer**                            |
 | **07.2018 – 04.2019** <br/> Pega | **Technical Documentation Specialist**                 |
 | **07.2018 – 04.2019** <br/> Motorola Solutions | **Junior Technical Writer/Scrum Master** |
@@ -77,7 +77,6 @@ I am mostly a self-taught coder that uses **Git** for version control.
  * CSS 3
  * SCSS
  * XML
- * Liquid
  * Gatsby JS
  * Jekyll
  * GitHub Pages
@@ -86,6 +85,7 @@ I am mostly a self-taught coder that uses **Git** for version control.
 ### Backend
  * Python
  * Ruby
+ * Liquid
  * Regex
  * JSON
  * YAML
