@@ -238,3 +238,4 @@ Polish
 ## Publications
  * [O zdalnych wykładach akademickich, czyli licealiści w roli studentów anglistyki](http://jows.pl/sites/default/files/jows_2-2017_pitura_0.pdf){:target="_blank"}
  * [Zdigitalizować dysleksję. Jak nauczać dźwięków języka angielskiego](http://jows.pl/sites/default/files/jows_2-2017_lodejkaron_1.pdf){:target="_blank"}
+{: .publications}

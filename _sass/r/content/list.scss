@@ -60,3 +60,26 @@ dd {
     margin: 0 0 0 0;
 }
 /*** Definition lists - END */
+
+ul.publications {
+    padding: 0;
+    margin-top: 2rem;
+
+    li {
+        list-style: none;
+        margin-top: $margin;
+        a {
+            font-style: italic;
+            font-weight: bold;
+            border: none;
+            color: $secondary-color;
+        }
+
+        a:hover,
+        a:active,
+        a:focus {
+            border-bottom: 0.25rem solid $secondary-color;
+            transition-duration: 0s;
+        }
+    }
+}
