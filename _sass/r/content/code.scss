@@ -23,7 +23,7 @@ pre {
     overflow-y: auto;
     -ms-overflow-style: none;
     scrollbar-width: none;
-    border-left: $border-left;
+    border-radius: $border-radius;
 }
 pre > code {
     white-space: pre-wrap;
