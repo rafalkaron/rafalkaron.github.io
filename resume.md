@@ -133,6 +133,7 @@ As a former teacher and an Agile leader, I embrace the importance of soft skills
 {: .items}
 
 # Tools
+As a technical writer with a number of side-skills, I am familiar with a wide variety of tools.
 
 ## Content development
  * oXygen
