@@ -9,13 +9,16 @@ order: "3"
 # Experience
 I had an opportunity to work for big and medium IT companies as well for a startup. I feel comfortable in both corporate and startup environments.
 
-| 07.2019 – present | Information Developer/Scrum Master |
-| 04.2019 – 07.2019 | Information Developer |
-| 07.2018 – 04.2019 | Technical Documentation Specialist |
-| 07.2018 – 04.2019 | Junior Technical Writer/Scrum Master |
-| 10.2017 – 07.2018 | Junior Technical Writer |
-| 02.2017 – 10.2017 | Technical Writer Trainee |
-| 08.2016 – 01.2017 | English language lecturer |
+|     |
+|-:|:-|
+| 07.2019 – present <br/> Jorsek | Information Developer/Scrum Master               |
+| 04.2019 – 07.2019 <br/> Jorsek | Information Developer                            |
+| 07.2018 – 04.2019 <br/> Pega | Technical Documentation Specialist                 |
+| 07.2018 – 04.2019 <br/> Motorola Solutions | Junior Technical Writer/Scrum Master |
+| 10.2017 – 07.2018 <br/> Motorola Solutions | Junior Technical Writer              |
+| 02.2017 – 10.2017 <br/> Motorola Solutions| Technical Writer Trainee              |
+| 08.2016 – 01.2017 <br/> MAK | English language lecturer                           |
+{: .cv-experience}
 
 # Skills
 I am a technical writer who leads, codes, tests, and occasionally helps to sell products.
