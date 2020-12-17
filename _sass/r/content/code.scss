@@ -8,6 +8,10 @@ code {
     font-family: $mono-font;
 }
 
+code * {
+    font-family: $mono-font;
+}
+
 /* Code phrases */
 :not(pre) > code {
     color: $secondary-color;
@@ -44,6 +48,7 @@ pre > code * {
 .language-python pre code {
     white-space: pre;
     overflow-x: scroll;
+    overflow-y: scroll;
 }
 
 /* Syntax highligt */
