@@ -62,8 +62,17 @@ table.cv-experience {
     }
 
     tr > td:nth-child(2) {
-      border-left: $border-left;
+      border-left: $border;
       padding: 0.5rem 0 0.5rem 2.5rem;
     }
 
+    td {
+      color: $primary-color;
+      font-size: 1.4rem;
+
+      strong {
+        color: $text-dark;
+        font-size: 1.6rem;
+      }
+    }
 }

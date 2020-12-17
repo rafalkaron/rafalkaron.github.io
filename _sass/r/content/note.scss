@@ -6,7 +6,7 @@
     padding: 1rem 1.5rem;
     background-color: $background-middle;
     display: block;
-    border-left: $border-left;
+    border-left: $border;
 }
 
 /* Style note captions */
@@ -16,7 +16,7 @@
 .note_tip::before {
     white-space: pre;
     font-size: inherit;
-    display: inline-block;
+    display: block;
     font-weight: bold;
 }
 
