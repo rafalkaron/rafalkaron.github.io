@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: multipage
 title: testfile
 order: "9"
 #navtitle:
