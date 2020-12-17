@@ -14,3 +14,5 @@
 *[AC]: Acceptance Criteria
 *[STR]: Steps to Reproduce
 *[RAW]: Unprocessed image
+*[QA]: Quality Assurance
+*[SaaS]: Software as a Service

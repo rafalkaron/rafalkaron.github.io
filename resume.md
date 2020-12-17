@@ -7,7 +7,7 @@ order: "3"
 ---
 {% include glossary.md %}
 # Experience
-I had an unique opportunity to work for big and medium-sized IT companies as well a startup. I feel comfortable in both corporate and startup environments.
+I had an opportunity to work for big and medium IT companies as well for a startup. I feel comfortable in both corporate and startup environments.
 
 | 07.2019 – present | Information Developer/Scrum Master |
 | 04.2019 – 07.2019 | Information Developer |
@@ -18,65 +18,128 @@ I had an unique opportunity to work for big and medium-sized IT companies as wel
 | 08.2016 – 01.2017 | English language lecturer |
 
 # Skills
+I am a technical writer who leads, codes, tests, and occasionally helps to sell products.
 
-## Technical Writing
+## Content development
+I have had an opportunity to create a wide variety of guides and media assets.
+
+### Markup languages
  * DITA
  * Markdown
  * Kramdown
- * Structured content
- * RFQ
+{: .items}
+
+### Guides
+ * User guides
+ * Internal guides
+ * Reference guides
+ * Installation and configuration guides
+ * Courses
+{: .items}
+
+### Content architecture
+ * Style guides
+ * Asset inventories
+ * Content strategies
+ * Conceptual designs
+{: .items}
+
+### Media
+ * GIFs
+ * Videos
+ * Diagrams
+ * Screenshots
+{: .items}
+
+### Output formats
+ * PDFs
+ * Documentation portals
+ * Embedded help systems
+ * Static sites (WebHelps)
+{: .items}
+
+## Sales
+I took part in responding to prospects' questionnaires and technological demos.
+ * Request for Proposal (RFP) responses
+ * Request for Quotation (RFQ) responses
+ * Request for Information (RFI) responses
+ * Technological demos involving content transformation
 {: .items}
 
 ## Coding
+I am mostly a self-taught coder that uses **Git** for version control.
+
+### Frontend
  * HTML 5
  * CSS 3
  * SCSS
- * Liquid
- * Python
- * Git
- * Regex
- * JSON
- * YAML
  * XML
-{: .items}
-
-## Web Frameworks Knowledge
+ * Liquid
  * Gatsby JS
  * Jekyll
  * GitHub Pages
- * Moodle (limited)
 {: .items}
 
-## Industry Knowledge
- * IT
- * Networks
- * Cloud computing
- * Virtualization
- * Information assurance
- * Telecommunication
- * Component Content Management System (CCMS)
- * Technical Communication (techcom)
+### Backend
+ * Python
+ * Ruby
+ * Regex
+ * JSON
+ * YAML
 {: .items}
 
-## Agile
+## Agile methodologies
+As an Agile leader, I am familiar with the following frameworks.
  * Scrum
  * Kanban
 {: .items}
 
-## Soft Skills
+## Quality assurance
+As a by-product of the docs development, I am able to:
+ * Find bugs
+ * Suggest improvements
+ * Request new features
+ * Define clear Steps to Reproduce (STR) and Acceptance Criteria (AC) 
+{: .items}
+
+## Teaching
+As a former English teacher, I enjoy taking part in the following initiatives:
+ * Onboarding
+ * Conducting workshops
+{: .items}
+
+## Industry knowledge
+I have worked for diverse companies that gave me insight into different areas of the IT industry.
+ * Networks
+ * Cloud computing
+ * SaaS
+ * No Code / Low Code
+ * Virtualization
+ * Information assurance
+ * Telecommunication
+ * Technical Communication
+ * Component Content Management Systems (CCMS)
+ * Learning
+{: .items}
+
+## Soft skills
+As a former teacher and an Agile leader, I embrace the importance of soft skills.
  * Leading without formal authority
- * Teamwork
- * Gaining input
  * Building relations with SMEs
+ * Clear communication
+ * Gaining input
+ * Confidence
+ * Teamwork
 {: .items}
 
 # Tools
 
-## Technical Writing
+## Content development
  * oXygen
  * easyDITA
  * DITA-OT
  * Prince XML
+ * Moodle LMS
 {: .items}
 
 ## Coding
@@ -102,7 +165,9 @@ I had an unique opportunity to work for big and medium-sized IT companies as wel
 ## Office Software
  * Google Suite
  * Microsoft Office
- * Pages, Numbers, Keynote
+ * Pages
+ * Numbers
+ * Keynote
  * Adobe Acrobat Pro
 {: .items}
 
@@ -115,22 +180,28 @@ I had an unique opportunity to work for big and medium-sized IT companies as wel
  * Box
 {: .items}
 
-## Operating Systems
+## Operating systems
  * Windows
  * macOS
  * Linux
+ * iOS
+ * Android
 {: .items}
 
 # Education
+I am a trained teacher who found his place in the IT industry.
 
 ## Degree
 **Master of Arts (MA), English Philology (Digital Teacher)**  
 Pedagogical University of Cracow 
 
 ## Languages
- * English - full professional proficiency
- * Polish - native
-{: .items}
+English
+: Full professional proficiency
+
+Polish
+: Native 
+{: .two_column}
 
 ## Certificates
 
@@ -145,24 +216,19 @@ Pedagogical University of Cracow
  * XML Essential Training
 {: .items}
 
-### Content Development
+### Content development
  * Learning Markdown
  * Instructional Design: Creating Video Training
  * Camtasia 2018 Essential Training
  * Drupal 8 Essential Training: The Basics
  * UX Design 1: Overview
- * Planning a Career in User Experience
+ * Visio 2019 Essential Training
 {: .items}
 
-### Soft Skills
- * Personal Effectivness
+### Soft skills
+ * Personal Effectiveness
  * Leading without Formal Authority
  * Produktywność krok po kroku
-{: .items}
-
-### Office Tools
- * Outlook Essential Training (Office 365)
- * Visio 2019 Essential Training
 {: .items}
 
 ## Publications

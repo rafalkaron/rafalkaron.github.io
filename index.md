@@ -9,10 +9,10 @@ order: "0"
 # Content developer
 Throughout my IT career, I have worn a number of different hats. Nevertheless, my main role has always been to develop content.
 
-## Asset types
+## Content types
 My profession goes by different names, including: **technical writer**, **technical documentation specialist**, **information developer**, or **content developer**.
 
-Since I have had an opportunity to develop a wide variety of asset types, I find the most general **content developer** term the most relevant to describe my occupation.
+Since I have had an opportunity to develop a wide variety of assets, I find the most general **content developer** term the most relevant to describe my occupation.
 
 ### Guides
  * User guides
@@ -39,7 +39,6 @@ Since I have had an opportunity to develop a wide variety of asset types, I find
  * Request for Proposal (RFP) responses
  * Request for Quotation (RFQ) responses
  * Request for Information (RFI) responses
- * Technological demos involving content transformation
 {: .items}
 
 ## Output formats

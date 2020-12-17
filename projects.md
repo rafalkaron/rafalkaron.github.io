@@ -24,7 +24,7 @@ You can use Klipps to convert your Kindle clippings into a static site in three 
 !["My Clippings.html" file](assets/media/klipps/klipps_output.png){: title="Sample Klipps output" .shadow .center width="580px;"}
 
 
-## Related information 
+## See also 
  * [Klipps GitHub repository](https://github.com/rafalkaron/Klipps){:target="_blank"}
 
 # Hosty ![Hosty logo](assets/media/hosty/hosty.svg)
@@ -38,7 +38,7 @@ Hosty comes in handy in if you want to locally:
  * Preview a static site  
 For example, some WebHelps may require a web server to display correctly
 
-## Related information
+## See also
  * [Hosty GitHub repository](https://github.com/rafalkaron/Hosty){:target="_blank"}
 
 # importaint
@@ -64,6 +64,44 @@ optional arguments:
   -v, --version         show program's version number and exit
 ```
 
+## Example
+### Before
+The following example shows an uncompiled CSS file with two `@import` rules.
+```css
+@import url("modules/module_a.css");
+@import url("https://rafalkaron.github.io/modules/module_b.css");
+
+/* list items */
+li {
+    margin: 0.8rem 0;
+}
+```
+### After
+The following example shows a compiled CSS file with `@import` rules resolved.
+```css
+/* resolved module_a.css */
+p {
+  margin-top: 5rem;
+}
+
+/* resolved module_b.css */
+a {
+    text-decoration: none;
+    border-bottom: 0.25rem solid blue;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: blue;
+}
+
+/* list items */
+li {
+    margin: 0.8rem 0;
+}
+```
+
 ## Extra features
 Apart from compiling CSS files, importaint enables you to:
  * Define a custom output directory
@@ -72,16 +110,16 @@ Apart from compiling CSS files, importaint enables you to:
  * Copy the compiled CSS code to clipboard
 
 ## Use cases
-importaint is useful if:
- * Your customer demands a monolithic file and you want to keep your code modular
- * You want to optimize your CSS code
- * You want to quickly implement your CSS code for testing
+importaint is useful if you want to:
+ * Optimize your CSS code
+ * Implement a single compiled CSS file
+ * Keep your code modular and produce monoliths for your customer
 
-## Related information
+## See also
  * [importaint GitHub repository](https://github.com/rafalkaron/importaint){:target="_blank"}
 
 # MarkUP
-MarkUP is a CLI tool that enables you to batch-convert Markdown and HTML files. 
+MarkUP is a CLI tool that enables you to batch-convert Markdown or HTML to DITA. 
 
 ```
 Batch-convert Markdown and HTML files.
@@ -101,7 +139,32 @@ optional arguments:
                         manually specify the output folder (defaults to the input folder)
 ```
 
-## Related information
+## Conversion types
+MarkUP supports the following conversion types:
+ * Markdown → DITA
+ * HTML → DITA
+ * Markdown ↔ HTML
+
+## Example
+The following example shows a Markdown file converted to DITA. 
+
+Currently, MarkUP converts content only to DITA concept topics. You may need to refactor the DITA code after the conversion.
+{:.note}
+### Before
+```markdown
+
+```
+### After
+```xml
+
+```
+
+## Use cases
+MarkUP is useful if you want to:
+ * Migrate your Markdown or HTML documentation to DITA
+ * Convert HTML to Markdown or the other way round
+
+## See also
  * [MarkUP GitHub repository](https://github.com/rafalkaron/markup){:target="_blank"}
 
 # PrincePal
@@ -133,11 +196,11 @@ optional arguments:
                         Pick the output folder on your own
 ```
 
-## Related information
+## See also
  * [PrincePal GitHub repository](https://github.com/rafalkaron/princepal){:target="_blank"}
 
 # rafalkaron.github.io
 
-## Related information
+## See also
  * [Jreel](https://jreel.github.io/){:target="_blank"}
  * [Kramdown](https://kramdown.gettalong.org/index.html){:target="_blank"}
