@@ -274,7 +274,7 @@ MarkUP is useful if you want to:
 {: .links}
 
 # PrincePal
-[PrincePal](https://github.com/rafalkaron/princepal){:target="_blank" title="PrincePal on GitHub"} is a CLI tool that enables you to efficiently PDF documents produced with [Prince](https://www.princexml.com/){:target="_blank"}.
+[PrincePal](https://github.com/rafalkaron/princepal){:target="_blank" title="PrincePal on GitHub"} is a CLI tool that enables you to efficiently preview PDF documents produced with [Prince](https://www.princexml.com/){:target="_blank"}.
 
 ## Prerequisites
 To use PrincePal, you need to install Prince first. For more information, see the [Prince Installation Guide](https://www.princexml.com/doc/installing/).
