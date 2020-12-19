@@ -159,29 +159,32 @@ div.print#cover-back {
     font-size: 1.6rem;
 
     div#cover-back-content {
-        position: relative;
-        top: 0;
         width: 100%;
         margin: 0 auto;
         color: $text-dark;
 
-        div#footer-contact {
+        div.footer-contact {
             display: block;            
             a {
                 text-decoration: none;
                 display: block;
+                font-weight: bold;
+            }
+            a::after {
+                content: ": "attr(href)"";
             }
         }
         
-        div#footer-copyright {
+        div.footer-copyright {
             display: block;  
             color: $primary-color;
             font-weight: bold;          
             a {
                 text-decoration: none;
+                color: inherit;
+                font-weight: inherit;
             }
         }
-
     }
 }
 /*** Cover - END */
