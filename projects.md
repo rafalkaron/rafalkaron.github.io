@@ -223,33 +223,38 @@ PrincePal enables you to:
  * Specify the number of concurrent jobs
  * Delete PDF files from the script directory
 
+## Use cases
+PrincePal makes developing Prince PDF styling easier by enabling you to preview multiple content sets.
+
 ## Related links
  * [PrincePal on GitHub](https://github.com/rafalkaron/princepal){:target="_blank"}
  * [Prince Converter](https://www.princexml.com/){:target="_blank"}
 {: .links}
 
-## Use cases
-PrincePal makes developing Prince PDF styling easier by enabling you to preview multiple content sets.
-
 # rafalkaron.github.io
-I developed this very site from scratch.
+I designed and developed this very site from scratch.
 
 ## Technologies
-I used the following technologies to develop rafalkaron.github.io:
+I used the following technologies to develop [rafalkaron.github.io](https://rafalkaron.github.io){:target="_blank"}:
 
-### Ruby
+Ruby
+: Setting up local Jekyll development environment.
 
-### Liquid
+Liquid
+: Outputting variables and controlling template logic.
 
-### HTML
+HTML
+: Specifying modular page layout.
 
-### SCSS
+SCSS
+: Styling the site for multiple viewports.
 
-### YAML
+YAML
+: Defining site configuration, metadata, and contact information.
 
-### SVG
-
-### Kramdown
+Kramdown
+: Developing content.
+{: .two_column}
 
 ## Related links
  * [r-jekyll-theme on GitHub](https://github.com/rafalkaron/r-jekyll-theme)
