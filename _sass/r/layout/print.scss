@@ -1,16 +1,14 @@
 /*** General - START */
 html {
-    font-size: 12px;
-    line-height: 1.2;
-    margin: 0;
+    font-size: 75%;
 }
 * {
     font-family: $main-font;
     line-height: 1.6em;
     text-align: left;
     color: $text-dark;
-    font-size: 1.6rem;
 }
+
 /*** General - END */
 
 /*** Front Cover - START */
@@ -117,4 +115,30 @@ div#site-logo-container,
 div#site-nav-page,
 footer#site-footer {
     display: none;
+}
+
+/* Individual titles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    break-inside: avoid;
+}
+
+h1 {
+    font-size: 3.2rem;
+    page-break-before: always;
+}
+h2 {
+    font-size: 2.8rem;
+}
+h3 {
+    font-size: 2.0rem;
+}
+h4,
+h5,
+h6 {
+    font-size: 1.8rem;
 }

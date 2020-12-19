@@ -120,7 +120,7 @@ I have worked for diverse companies that gave me insight into different areas of
  * Networks
  * Cloud computing
  * SaaS
- * No Code / Low Code
+ * No/Low Code
  * Virtualization
  * Information assurance
  * Telecommunication

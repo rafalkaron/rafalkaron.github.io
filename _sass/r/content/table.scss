@@ -38,22 +38,19 @@ tr:nth-child(even) > td {
   background-color: $background-middle;
 }
 
-
-
+/*** Special table - START */
 table.cv-experience {
     border: none;
     width: 100%;
     margin-top: 5rem;
     display: block;
-    //width: 100%;
-    //margin: $margin auto;
 
     thead {
       display: none;
     }
 
     tr > td {
-      background-color: $background-light;
+      background-color: transparent;
       vertical-align: top;
     }
     
@@ -76,3 +73,4 @@ table.cv-experience {
       }
     }
 }
+/*** Special table - END */
