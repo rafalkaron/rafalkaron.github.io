@@ -5,6 +5,7 @@ ul {
 }
 li {
     margin: 0.8rem 0;
+    font-size: 1.6rem;
 }
 /*** Ordered and unordered lists - END */
 
@@ -49,7 +50,8 @@ dd + dt {
 dt,
 dd {
     border-left: $border;
-    padding: 0 0 0 1.5rem;
+    padding: 0 0 0 1.4rem;
+    font-size: 1.4rem;
 }
 
 dt,

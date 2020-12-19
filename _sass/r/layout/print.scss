@@ -9,15 +9,17 @@ html {
     color: $text-dark;
 }
 
+@page {
+    margin: 3.5rem;
+}
 /*** General - END */
 
 /*** Front Cover - START */
 div#cover-front {
-    background: $primary-color;
     break-after: always;
     break-inside: avoid;
-    height: 99vh;
     display: block;
+    page-break-after: always;
 }
 div#cover-front-content {
     position: absolute;
@@ -31,7 +33,7 @@ a#site-logo {
     text-align: center;
     font-size: 18rem;
     font-weight: normal;
-    color: $text-light;
+    color: $primary-color;
     text-decoration: none;
     line-height: 0.8em;
     font-family: $logo-font;
@@ -44,50 +46,23 @@ div#site-reference-container {
 }
 
 a#site-reference {
-    color: $text-light;
+    color: $text-dark;
     text-decoration: none;
     font-size: 2.4rem;
     font-weight: bold;
 }
-
 /*** Cover - END */
-
-/*** Back Cover - START */
-div#cover-back {
-    background: $primary-color;
-    break-after: always;
-    break-inside: avoid;
-    height: 99vh;
-    display: block;
-}
-div#back-front-content {
-    position: absolute;
-    top: 25rem;
-    width: 100%;
-    margin: 0 auto;
-}
-
-div#site-reference-container {
-    display: block;
-    width: 100%;
-    text-align: center;
-}
-
-a#site-reference {
-    color: $text-light;
-    text-decoration: none;
-    font-size: 2.4rem;
-    font-weight: bold;
-}
-
-/*** Cover - END */
-
 
 /*** TOC - START */
+header#site-header {
+    display: block;
+}
+
 div#site-nav-section::before {
+    page-break-before: always;
     color: $primary-color;
     font-weight: bold;
-    size: 24px;
+    font-size: 2.4rem;
     content: "Contents";
     display: block;
 }
@@ -95,9 +70,12 @@ div#site-nav-section::before {
 div#site-nav-section {
     page-break-after: always;
 }
+div#toc-sections ul {
+    margin: $margin 0;
+}
 div#toc-sections li {
-    list-style: none;
     color: $text-dark;
+    font-size: 1.8rem;
 }
 #toc-sections a.nav-link {
     text-decoration: none;
@@ -151,23 +129,59 @@ h6 {
 /* links */
 main#page-content {
     a {
-        border-bottom: none;
+        border-bottom: none !important;
+        color: $text-dark;
+    }
+    a.expand {
         color: $secondary-color;
     }
-    a::after{
+    a.expand::after,
+    ul.links > li a::after {
         content: " (" attr(href) ") ";
+        font-weight: normal;
     }
 
     li,
     p {
         abbr,
         abbr[title] {
-            border: none;
+            border-bottom: none !important;
+            color: $text-dark;
         }
     }
-
-    p abbr::after {
-        content: " (" attr(title) ") ";
-    }
-
 }
+
+/*** Back Cover - START */
+div.print#cover-back {
+    page-break-before: always;
+    break-inside: avoid;
+    display: block;
+    font-size: 1.6rem;
+
+    div#cover-back-content {
+        position: relative;
+        top: 0;
+        width: 100%;
+        margin: 0 auto;
+        color: $text-dark;
+
+        div#footer-contact {
+            display: block;            
+            a {
+                text-decoration: none;
+                display: block;
+            }
+        }
+        
+        div#footer-copyright {
+            display: block;  
+            color: $primary-color;
+            font-weight: bold;          
+            a {
+                text-decoration: none;
+            }
+        }
+
+    }
+}
+/*** Cover - END */

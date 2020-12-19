@@ -21,11 +21,12 @@ You can use Klipps to convert your Kindle clippings to a static site in three si
 1. By using a USB cable, connect your Kindle to a PC or Mac.
 2. Download Klipps.
 3. Run Klipps.  
-**Result:** The [My Clippings.html](assets/media/klipps/My%20Clippings.html){:target="_blank" title="Sample Klipps output"} file is saved to your desktop and automatically opened in your web browser.  
+**Result:** The [My Clippings.html](assets/media/klipps/My%20Clippings.html){:target="_blank" title="Sample Klipps output"} file is saved to your desktop and automatically opened in your web browser. 
+
 !["My Clippings.html" file](assets/media/klipps/klipps_output.png){: title="Sample Klipps output" .shadow .center width="580px;"}
 
 ## Related links 
- * [Klipps on GitHub](https://github.com/rafalkaron/Klipps){:target="_blank"}
+ * [Klipps on GitHub](https://github.com/rafalkaron/Klipps){:target="_blank" .expand}
 {: .links}
 
 # Hosty ![Hosty logo](assets/media/hosty/hosty.svg)
