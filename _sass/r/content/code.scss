@@ -41,6 +41,7 @@ pre > code {
     padding: 1rem;
     display: block;
     font-size: 1.4rem;
+    line-height: 1.4em;
 }
 pre > code * {
     font-size: 1.4rem;
@@ -51,7 +52,7 @@ pre > code * {
     overflow-y: scroll;
 }
 
-/* Syntax highligt */
+/* Syntax highligt 
 .highlight {
 background: #fff;
 
@@ -118,3 +119,4 @@ background: #fff;
     .vi    { color: #295180 } // Name.Variable.Instance
     .il    { color: #295180 } // Literal.Number.Integer.Long
 }
+*/

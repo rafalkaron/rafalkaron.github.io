@@ -7,7 +7,8 @@ order: "3"
 ---
 {% include glossary.md %}
 # Experience
-I had an opportunity to work for big and medium IT companies as well for a startup. I feel comfortable in both corporate and startup environments.
+I have had an opportunity to work for large, medium, and startup-sized IT companies.  
+I feel comfortable in both corporate and startup environments.
 
 |     |
 |-:|:-|
@@ -24,7 +25,7 @@ I had an opportunity to work for big and medium IT companies as well for a start
 I am a technical writer who leads, codes, tests, and occasionally helps to sell products.
 
 ## Content development
-I have had an opportunity to create a wide variety of guides and media assets.
+I have created a wide variety of guides, design documents, and media assets.
 
 ### Markup languages
  * DITA
@@ -36,8 +37,9 @@ I have had an opportunity to create a wide variety of guides and media assets.
  * User guides
  * Internal guides
  * Reference guides
- * Installation and configuration guides
- * Courses
+ * Installation guides
+ * Configuration guides
+ * Disaster recovery guides
 {: .items}
 
 ### Content architecture
@@ -62,11 +64,11 @@ I have had an opportunity to create a wide variety of guides and media assets.
 {: .items}
 
 ## Sales
-I took part in responding to prospects' questionnaires and technological demos.
- * Request for Proposal (RFP) responses
- * Request for Quotation (RFQ) responses
- * Request for Information (RFI) responses
- * Technological demos involving content transformation
+I took part in responding to prospects' questionnaires and was involved in technological demos.
+ * RFP responses
+ * RFQ responses
+ * RFI responses
+ * Demos
 {: .items}
 
 ## Coding
@@ -92,7 +94,7 @@ I am mostly a self-taught coder that uses **Git** for version control.
 {: .items}
 
 ## Agile methodologies
-As an Agile leader, I am familiar with the following frameworks.
+As an Agile leader, I am familiar with the following frameworks:
  * Scrum
  * Kanban
 {: .items}
@@ -102,13 +104,15 @@ As a by-product of the docs development, I am able to:
  * Find bugs
  * Suggest improvements
  * Request new features
- * Define clear Steps to Reproduce (STR) and Acceptance Criteria (AC) 
+ * Define clear STR 
+ * Define clear AC
 {: .items}
 
 ## Teaching
 As a former English teacher, I enjoy taking part in the following initiatives:
  * Onboarding
  * Conducting workshops
+ * Organizing open days
 {: .items}
 
 ## Industry knowledge
@@ -121,7 +125,7 @@ I have worked for diverse companies that gave me insight into different areas of
  * Information assurance
  * Telecommunication
  * Technical Communication
- * Component Content Management Systems (CCMS)
+ * CCMS
  * Learning
 {: .items}
 
@@ -236,6 +240,6 @@ Polish
 {: .items}
 
 ## Publications
- * [O zdalnych wykładach akademickich, czyli licealiści w roli studentów anglistyki](http://jows.pl/sites/default/files/jows_2-2017_pitura_0.pdf){:target="_blank"}
- * [Zdigitalizować dysleksję. Jak nauczać dźwięków języka angielskiego](http://jows.pl/sites/default/files/jows_2-2017_lodejkaron_1.pdf){:target="_blank"}
-{: .publications}
+ * *[O zdalnych wykładach akademickich, czyli licealiści w roli studentów anglistyki](http://jows.pl/sites/default/files/jows_2-2017_pitura_0.pdf)*{:target="_blank"}
+ * *[Zdigitalizować dysleksję. Jak nauczać dźwięków języka angielskiego](http://jows.pl/sites/default/files/jows_2-2017_lodejkaron_1.pdf)*{:target="_blank"}
+{: .links}

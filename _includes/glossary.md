@@ -16,3 +16,6 @@
 *[RAW]: Unprocessed image
 *[QA]: Quality Assurance
 *[SaaS]: Software as a Service
+*[RFP]: Request for Proposal
+*[RFI]: Request for Information
+*[RFQ]: Request for Quotation

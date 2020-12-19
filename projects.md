@@ -7,43 +7,50 @@ order: "1"
 ---
 {% include glossary.md %}
 # Klipps ![Klipps logo](assets/media/klipps/klipps_logo.svg)
-Klipps enables you to export your Kindle clippings to a static website that you can open in your web browser and share with your friends.
+[Klipps](https://github.com/rafalkaron/klipps){:target="_blank" title="Klipps on GitHub"} enables you to export your Kindle clippings to a static site.  
+You can open the exported static site in any web browser and share it with others.
 
 ## Kindle clippings
-When you highlight a sentence in Kindle, the sentence is saved to the [My Clippings.txt](assets/media/klipps/My%20Clippings.txt){:target="_blank" title="Sample Kindle clippings file"} file. The file often packs interesting content but it always looks pretty dull.  
+When you highlight a sentence in Kindle, the sentence is saved to the [My Clippings.txt](assets/media/klipps/My%20Clippings.txt){:target="_blank" title="Sample Kindle clippings file"} file. The file often packs interesting content but it always looks dull.  
 
 !["My Clippings.txt" file](assets/media/klipps/kindle_clippings.png){:width="420px;" .center .shadow}
 
-## Klipps operation
-You can use Klipps to convert your Kindle clippings into a static site in three simple steps.
+## Exporting Kindle clippings
+You can use Klipps to convert your Kindle clippings to a static site in three simple steps.
 
-1. Connect your Kindle to a PC or Mac computer by using a USB cable.
-2. To your computer, download Klipps.
+1. By using a USB cable, connect your Kindle to a PC or Mac.
+2. Download Klipps.
 3. Run Klipps.  
-**Result:** The [converted clippings](assets/media/klipps/My%20Clippings.html){:target="_blank"} are saved to the desktop and automatically opened in your web browser.
+**Result:** The [My Clippings.html](assets/media/klipps/My%20Clippings.html){:target="_blank" title="Sample Klipps output"} file is saved to your desktop and automatically opened in your web browser.  
 !["My Clippings.html" file](assets/media/klipps/klipps_output.png){: title="Sample Klipps output" .shadow .center width="580px;"}
 
-
-## See also 
- * [Klipps GitHub repository](https://github.com/rafalkaron/Klipps){:target="_blank"}
+## Related links 
+ * [Klipps on GitHub](https://github.com/rafalkaron/Klipps){:target="_blank"}
+{: .links}
 
 # Hosty ![Hosty logo](assets/media/hosty/hosty.svg)
-Hosty enables you to host a website on a local web server without the need to open a terminal.
+[Hosty](https://github.com/rafalkaron/hosty){:target="_blank" title="Hosty on GitHub"} enables you to host a website on a local web server without the need to open a terminal.
 
+## Interface
 ![Hosty interface](assets/media/hosty/hosty_interface.png){: .shadow}
 
 ## Use cases
-Hosty comes in handy in if you want to locally:
+Hosty comes in handy if you want to locally:
  * Test or troubleshoot a website or a web app
  * Preview a static site  
-For example, some WebHelps may require a web server to display correctly
 
-## See also
- * [Hosty GitHub repository](https://github.com/rafalkaron/Hosty){:target="_blank"}
+Some advanced WebHelps may need to be hosted on a web server to display content correctly.
+{: .note}
+
+## Related links
+ * [Hosty on GitHub](https://github.com/rafalkaron/Hosty){:target="_blank"}
+ * [MDN: What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server){:target="_blank"}
+{: .links}
 
 # importaint
-importaint is a CLI tool that enables you to compile a CSS file with `@import` rules into a resolved CSS file without `@import` rules.
+[importaint](https://github.com/rafalkaron/importaint){:target="_blank" title="importaint on GitHub"} is a CLI tool that enables you to compile a CSS file with `@import` rules into a resolved CSS file without the `@import` rules.
 
+## Interface
 ```
 Compile a CSS file with imports into a resolved CSS file without imports.
 
@@ -65,8 +72,9 @@ optional arguments:
 ```
 
 ## Example
+importaint resolves both local and external imports.
 ### Before
-The following example shows an uncompiled CSS file with two `@import` rules.
+The following example shows an **uncompiled CSS** file with two `@import` rules.
 ```css
 @import url("modules/module_a.css");
 @import url("https://rafalkaron.github.io/modules/module_b.css");
@@ -77,7 +85,7 @@ li {
 }
 ```
 ### After
-The following example shows a compiled CSS file with `@import` rules resolved.
+The following example shows a **compiled CSS** file with resolved `@import` rules.
 ```css
 /* resolved module_a.css */
 p {
@@ -115,12 +123,15 @@ importaint is useful if you want to:
  * Implement a single compiled CSS file
  * Keep your code modular and produce monoliths for your customer
 
-## See also
- * [importaint GitHub repository](https://github.com/rafalkaron/importaint){:target="_blank"}
+## Related links
+ * [importaint on GitHub](https://github.com/rafalkaron/importaint){:target="_blank"}
+ * [MDN: @import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import){:target="_blank"}
+{: .links}
 
 # MarkUP
-MarkUP is a CLI tool that enables you to batch-convert Markdown or HTML to DITA. 
+[MarkUP](https://github.com/rafalkaron/markup){:target="_blank" title="MarkUP on GitHub"} is a CLI tool that enables you to batch-convert Markdown or HTML to DITA. 
 
+## Interface
 ```
 Batch-convert Markdown and HTML files.
 
@@ -148,8 +159,9 @@ MarkUP supports the following conversion types:
 ## Example
 The following example shows a Markdown file converted to DITA. 
 
-Currently, MarkUP converts content only to DITA concept topics. You may need to refactor the DITA code after the conversion.
+Currently, MarkUP converts content only to DITA concept topics. You may need to refactor DITA after the conversion.
 {:.note}
+
 ### Before
 ```markdown
 
@@ -162,14 +174,21 @@ Currently, MarkUP converts content only to DITA concept topics. You may need to 
 ## Use cases
 MarkUP is useful if you want to:
  * Migrate your Markdown or HTML documentation to DITA
- * Convert HTML to Markdown or the other way round
+ * Convert HTML to Markdown or vice versa
 
-## See also
- * [MarkUP GitHub repository](https://github.com/rafalkaron/markup){:target="_blank"}
+## Related links
+ * [MarkUP on GitHub](https://github.com/rafalkaron/markup){:target="_blank"}
+ * [Markdown Guide](https://www.markdownguide.org/){:target="_blank"}
+ * [DITA Specs](http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.html){:target="_blank"}
+{: .links}
 
 # PrincePal
-PrincePal is a CLI tool that enables you to efficiently preview Prince XML templates.
+[PrincePal](https://github.com/rafalkaron/princepal){:target="_blank" title="PrincePal on GitHub"} is a CLI tool that enables you to efficiently PDF documents produced with [Prince](https://www.princexml.com/){:target="_blank"}.
 
+## Prerequisites
+To use PrincePal, you need to install Prince first. For more information, see the [Prince Installation Guide](https://www.princexml.com/doc/installing/).
+
+## Interface
 ```
 Preview your PDFs like a prince!
 
@@ -196,11 +215,44 @@ optional arguments:
                         Pick the output folder on your own
 ```
 
-## See also
- * [PrincePal GitHub repository](https://github.com/rafalkaron/princepal){:target="_blank"}
+## Features
+PrincePal enables you to:
+ * Batch-convert HTML files and open preview for the converted PDF files
+ * Specify CSS styling for conversion
+ * Specify input and output directories
+ * Specify the number of concurrent jobs
+ * Delete PDF files from the script directory
+
+## Related links
+ * [PrincePal on GitHub](https://github.com/rafalkaron/princepal){:target="_blank"}
+ * [Prince Converter](https://www.princexml.com/){:target="_blank"}
+{: .links}
+
+## Use cases
+PrincePal makes developing Prince PDF styling easier by enabling you to preview multiple content sets.
 
 # rafalkaron.github.io
+I developed this very site from scratch.
 
-## See also
- * [Jreel](https://jreel.github.io/){:target="_blank"}
- * [Kramdown](https://kramdown.gettalong.org/index.html){:target="_blank"}
+## Technologies
+I used the following technologies to develop rafalkaron.github.io:
+
+### Ruby
+
+### Liquid
+
+### HTML
+
+### SCSS
+
+### YAML
+
+### SVG
+
+### Kramdown
+
+## Related links
+ * [r-jekyll-theme on GitHub](https://github.com/rafalkaron/r-jekyll-theme)
+ * [Jreel - Social media icons on jekyll](https://jreel.github.io/social-media-icons-on-jekyll/){:target="_blank"}
+ * [Allejo - jekyll-toc](https://github.com/allejo/jekyll-toc){:target="_blank"}
+{: .links}

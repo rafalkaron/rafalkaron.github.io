@@ -61,18 +61,16 @@ dd {
 }
 /*** Definition lists - END */
 
-ul.publications {
-    padding: 0;
-    margin-top: 2rem;
-
+ul.links {
     li {
-        list-style: none;
-        margin-top: $margin;
+        margin-top: $margin-small;
         a {
-            font-style: italic;
             font-weight: bold;
             border: none;
             color: $secondary-color;
+            abbr {
+                color: inherit;
+            }
         }
 
         a:hover,
