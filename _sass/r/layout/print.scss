@@ -117,22 +117,27 @@ footer#site-footer {
     display: none;
 }
 
-/* Individual titles */
+/* Avoid-breaking */
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+img,
+p,
+ul,
+ol {
     break-inside: avoid;
 }
 
+/* Titles */
 h1 {
-    font-size: 3.2rem;
+    font-size: 2.8rem;
     page-break-before: always;
 }
 h2 {
-    font-size: 2.8rem;
+    font-size: 2.2rem;
 }
 h3 {
     font-size: 2.0rem;
@@ -141,4 +146,28 @@ h4,
 h5,
 h6 {
     font-size: 1.8rem;
+}
+
+/* links */
+main#page-content {
+    a {
+        border-bottom: none;
+        color: $secondary-color;
+    }
+    a::after{
+        content: " (" attr(href) ") ";
+    }
+
+    li,
+    p {
+        abbr,
+        abbr[title] {
+            border: none;
+        }
+    }
+
+    p abbr::after {
+        content: " (" attr(title) ") ";
+    }
+
 }
