@@ -41,7 +41,7 @@ Hosty comes in handy if you want to locally:
  * Preview a static site  
 
 Some advanced WebHelps may need to be hosted on a web server to display content correctly.
-{: .note}
+{: .note_tip}
 
 ## Related links
  * [Hosty on GitHub](https://github.com/rafalkaron/Hosty){:target="_blank"}
