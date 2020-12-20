@@ -6,7 +6,8 @@ order: "3"
 #outputclass:
 ---
 {% include glossary.md %}
-# Experience
+
+# Experience 
 I have had an opportunity to work for large, medium, and startup-sized IT companies.  
 I feel comfortable in both corporate and startup environments.
 
@@ -243,3 +244,5 @@ Polish
  * *[O zdalnych wykładach akademickich, czyli licealiści w roli studentów anglistyki](http://jows.pl/sites/default/files/jows_2-2017_pitura_0.pdf)*{:target="_blank"}
  * *[Zdigitalizować dysleksję. Jak nauczać dźwięków języka angielskiego](http://jows.pl/sites/default/files/jows_2-2017_lodejkaron_1.pdf)*{:target="_blank"}
 {: .links}
+
+# {% include print/print_button.html %} 

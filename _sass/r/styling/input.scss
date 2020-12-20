@@ -1,0 +1,15 @@
+h1:has(input) {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    width: 100%
+}
+
+input {
+    font-weight: bold;
+    background: $secondary-color;
+    color: $text-light !important;
+    border-radius: $border-radius;
+    border: none;
+}
