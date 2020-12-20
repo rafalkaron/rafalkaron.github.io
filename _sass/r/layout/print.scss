@@ -8,9 +8,7 @@ html {
     text-align: left;
     color: $text-dark;
 }
-@page {
-    margin: 3.5rem;
-}
+
 div#site-logo-container,
 div#site-nav-page,
 footer#site-footer {
@@ -49,7 +47,7 @@ div#site-reference-container {
     text-align: center;
 }
 a#site-reference {
-    color: $text-dark;
+    color: $secondary-color;
     text-decoration: none;
     font-size: 2.4rem;
     font-weight: bold;
@@ -60,26 +58,21 @@ a#site-reference {
 header#site-header {
     display: block;
 }
-div#site-nav-section::before {
-    page-break-before: always;
-    color: $primary-color;
-    font-weight: bold;
-    font-size: 2.4rem;
-    content: "Contents";
-    display: block;
-}
 div#site-nav-section {
     page-break-after: always;
 }
 div#toc-sections ul {
-    margin: $margin 0;
+    margin: 0;
 }
 div#toc-sections li {
     color: $text-dark;
+    margin: 0.8rem 0;
     font-size: 1.8rem;
 }
 #toc-sections a.nav-link {
     text-decoration: none;
+    color: $secondary-color;
+    font-weight: bold;
 }
 /*** TOC - END */
 
@@ -113,6 +106,12 @@ h4,
 h5,
 h6 {
     font-size: 1.8rem;
+}
+h1.print-header {
+    margin: 0;
+    font-size: 4.8rem;
+    font-weight: bold;
+    color: $primary-color;
 }
 /*** Titles - END */
 
@@ -152,40 +151,44 @@ div.print#cover-back {
     div#cover-back-content {
         width: 100%;
         margin: 0 auto;
+        display: block;
+        page-break-inside: avoid;
 
         div.footer-contact {
             display: block;       
-            h1#contact-header {
-                margin: 0;
-                font-size: 4.8rem;
-                font-weight: bold;
-                color: $primary-color;
-            }
+
             ul {
                 margin: 0;
                 list-style: none;
                 padding: 0;
             }
             li {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
                 margin: 0.8rem 0;
-                font-size: 1.6rem;
             }
             a {
                 text-decoration: none;
                 display: inline-block;
                 color: $secondary-color;
+                font-size: 1.8rem;
             }
             img.footer-icon {
-                height: 16px;
-                display: inline-block;
-                margin: 0 $margin;
+                height: 2.8rem;
+                width: 2.8rem;
+                margin: 0 $margin 0 $margin-small;
             }
         }
-        
         div.footer-copyright {
+            position: absolute;
+            bottom: 0;
+            right: 0;
             display: block;  
             color: $primary-color;
-            font-weight: bold;          
+            font-weight: bold;
+            width: 100%;
+            text-align: right;
             a {
                 text-decoration: none;
                 color: inherit;
