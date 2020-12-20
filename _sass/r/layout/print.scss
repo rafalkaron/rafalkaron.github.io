@@ -8,9 +8,13 @@ html {
     text-align: left;
     color: $text-dark;
 }
-
 @page {
     margin: 3.5rem;
+}
+div#site-logo-container,
+div#site-nav-page,
+footer#site-footer {
+    display: none;
 }
 /*** General - END */
 
@@ -44,7 +48,6 @@ div#site-reference-container {
     width: 100%;
     text-align: center;
 }
-
 a#site-reference {
     color: $text-dark;
     text-decoration: none;
@@ -57,7 +60,6 @@ a#site-reference {
 header#site-header {
     display: block;
 }
-
 div#site-nav-section::before {
     page-break-before: always;
     color: $primary-color;
@@ -66,7 +68,6 @@ div#site-nav-section::before {
     content: "Contents";
     display: block;
 }
-
 div#site-nav-section {
     page-break-after: always;
 }
@@ -82,20 +83,7 @@ div#toc-sections li {
 }
 /*** TOC - END */
 
-/*** Images - START */
-img {
-    break-inside: avoid;
-}
-/*** Images - END */
-
-/* Hide site elements for printing */
-div#site-logo-container,
-div#site-nav-page,
-footer#site-footer {
-    display: none;
-}
-
-/* Avoid-breaking */
+/*** Avoid breaking elements - START */
 h1,
 h2,
 h3,
@@ -108,8 +96,9 @@ ul,
 ol {
     break-inside: avoid;
 }
+/*** Avoid breaking elements - END */
 
-/* Titles */
+/*** Titles - START */
 h1 {
     font-size: 2.8rem;
     page-break-before: always;
@@ -125,8 +114,9 @@ h5,
 h6 {
     font-size: 1.8rem;
 }
+/*** Titles - END */
 
-/* links */
+/*** Links - START */
 main#page-content {
     a {
         border-bottom: none !important;
@@ -150,6 +140,7 @@ main#page-content {
         }
     }
 }
+/*** Links - END */
 
 /*** Back Cover - START */
 div.print#cover-back {
@@ -161,23 +152,33 @@ div.print#cover-back {
     div#cover-back-content {
         width: 100%;
         margin: 0 auto;
-        color: $text-dark;
 
         div.footer-contact {
             display: block;       
-            
-            ul {
-                list-style: none;
-                padding-left: 0;
+            h1#contact-header {
+                margin: 0;
+                font-size: 4.8rem;
+                font-weight: bold;
+                color: $primary-color;
             }
-            
+            ul {
+                margin: 0;
+                list-style: none;
+                padding: 0;
+            }
+            li {
+                margin: 0.8rem 0;
+                font-size: 1.6rem;
+            }
             a {
                 text-decoration: none;
-                display: block;
-                font-weight: bold;
+                display: inline-block;
+                color: $secondary-color;
             }
-            a::after {
-                content: ": "attr(href)"";
+            img.footer-icon {
+                height: 16px;
+                display: inline-block;
+                margin: 0 $margin;
             }
         }
         
@@ -193,4 +194,4 @@ div.print#cover-back {
         }
     }
 }
-/*** Cover - END */
+/*** Back Cover - END */

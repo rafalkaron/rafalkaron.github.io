@@ -2,13 +2,14 @@
     <div id="cover-back-content">
 
             <div class="footer-column footer-contact">
+                <h1 id="contact-header">Contact</h1>
                 {%- if site.data.contact %}
                     {%- assign con = site.data.contact -%}
                     <ul>
                     {%- for entry in con -%}
                         {%- assign key = entry | first -%}
                         {% if con[key].id %}
-                        <li><a target="blank" class="footer-image-link" href="{{ con[key].href }}{{ con[key].id }}" title="{{ con[key].title }}">{{ con[key].title }}</a></li>
+                        <li><img class="footer-icon" src="{{ con[key].icon }}"><a target="blank" class="footer-image-link" href="{{ con[key].href }}{{ con[key].id }}" title="{{ con[key].title }}">{{ con[key].href }}{{ con[key].id }}</a></li>
                         {%- endif -%}
                     {% endfor %}
                     </ul>
