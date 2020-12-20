@@ -36,8 +36,9 @@ article {
 }
 
 article + article {
-    border-top: 0.5rem dotted $background-middle;
+    border-top: 0.5rem dashed $background-middle;
 }
+
 /*** Body - END */
 
 /*** Header - START */

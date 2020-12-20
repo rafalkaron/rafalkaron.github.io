@@ -62,24 +62,3 @@ dd {
     margin: 0 0 0 0;
 }
 /*** Definition lists - END */
-
-ul.links {
-    li {
-        margin-top: $margin-small;
-        a {
-            font-weight: bold;
-            border: none;
-            color: $secondary-color;
-            abbr {
-                color: inherit;
-            }
-        }
-
-        a:hover,
-        a:active,
-        a:focus {
-            border-bottom: 0.25rem solid $secondary-color;
-            transition-duration: 0s;
-        }
-    }
-}

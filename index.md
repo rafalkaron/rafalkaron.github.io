@@ -139,7 +139,9 @@ I shoot various kinds of photos ranging from portraits through macros to abstrac
 
 ## Origami
 I find paper folding both intricate and relaxing. Also, paper figurines make fantastic personalized gifts!
+{::comment}
 ![Origami owl]()
+{:/comment}
 
 ## Cycling
 I spent a half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike.
@@ -148,4 +150,6 @@ I spent a half of my childhood in a local bicycle shop and I love cycling. I can
 ## Running
 Usually, I run alone or with my friend. However, I took part in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1){:target="_blank"} as one of the *Motorola Solutions Gatekeepers* runners.
 
+{::comment}
 !["Business Run 2018" medal]()
+{:/comment}

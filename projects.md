@@ -329,22 +329,22 @@ I designed and developed this very site from scratch.
 I used the following technologies to develop [rafalkaron.github.io](https://rafalkaron.github.io){:target="_blank"}:
 
 Ruby
-: Setting up local Jekyll development environment.
+: Setting up a local Jekyll development environment.
 
 Liquid
-: Outputting variables and controlling template logic.
+: Outputting variables and controlling the template logic.
 
 HTML
-: Specifying modular page layout.
+: Specifying modular page layouts.
 
 SCSS
-: Styling the site for multiple viewports.
+: Styling the site for different media types and devices.
 
 YAML
-: Defining site configuration, metadata, and contact information.
+: Defining the site configuration, metadata, and contact information.
 
 Kramdown
-: Developing content.
+: Authoring the site content.
 {: .two_column}
 
 ## Related links

@@ -1,17 +1,18 @@
 a {
     text-decoration: none;
-    border-bottom: 0.25rem solid $secondary-color;
+    color: $secondary-color;
+    font-weight: bold;
 }
 
 a > abbr {
     text-decoration: inherit;
-    border-bottom: inherit;
+    color: inherit;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: $secondary-color;
+    text-decoration: underline;
 }
 
 a:hover > abbr,

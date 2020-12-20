@@ -14,8 +14,9 @@ code * {
 
 /* Code phrases */
 :not(pre) > code {
-    color: $secondary-color;
+    color: $text-dark;
     border-radius: $border-radius;
+    font-size: 1.4rem;
 }
 
 /* Codeblocks */
