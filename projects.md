@@ -13,7 +13,7 @@ You can open the exported static site in any web browser and share it with other
 ## Kindle clippings
 When you highlight a sentence in Kindle, the sentence is saved to the [My Clippings.txt](assets/media/klipps/My%20Clippings.txt){:target="_blank" title="Sample Kindle clippings file"} file. The file often packs interesting content but it always looks dull.  
 
-!["My Clippings.txt" file](assets/media/klipps/kindle_clippings.png){:width="420px;" .center .shadow}
+!["My Clippings.txt" file](assets/media/klipps/kindle_clippings.png){:width="360px;" .center .shadow}
 
 ## Exporting Kindle clippings
 You can use Klipps to convert your Kindle clippings to a static site in three simple steps.
@@ -26,7 +26,7 @@ You can use Klipps to convert your Kindle clippings to a static site in three si
 !["My Clippings.html" file](assets/media/klipps/klipps_output.png){: title="Sample Klipps output" .shadow .center width="580px;"}
 
 ## Related links 
- * [Klipps on GitHub](https://github.com/rafalkaron/Klipps){:target="_blank" .expand}
+ * [Klipps on GitHub](https://github.com/rafalkaron/Klipps){:target="_blank"}
 {: .links}
 
 # Hosty ![Hosty logo](assets/media/hosty/hosty.svg)

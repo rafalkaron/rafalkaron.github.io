@@ -86,7 +86,8 @@ h6,
 img,
 p,
 ul,
-ol {
+ol,
+section {
     break-inside: avoid;
 }
 /*** Avoid breaking elements - END */
@@ -124,8 +125,7 @@ main#page-content {
     a.expand {
         color: $secondary-color;
     }
-    a.expand::after,
-    ul.links > li a::after {
+    a.expand::after {
         content: " (" attr(href) ") ";
         font-weight: normal;
     }
