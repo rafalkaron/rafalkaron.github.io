@@ -110,7 +110,7 @@ As a by-product of the docs development, I am able to:
 {: .items}
 
 ## Teaching
-As a former English teacher, I enjoy taking part in the following initiatives:
+As a former English teacher, I enjoy taking part in initiatives like:
  * Onboarding
  * Conducting workshops
  * Organizing open days
@@ -125,7 +125,7 @@ I have worked for diverse companies that gave me insight into different areas of
  * Virtualization
  * Information assurance
  * Telecommunication
- * Technical Communication
+ * Technical communication
  * CCMS
  * Learning
 {: .items}
