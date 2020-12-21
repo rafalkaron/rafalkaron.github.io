@@ -65,7 +65,7 @@ I have created a wide variety of guides, design documents, and media assets.
 {: .items}
 
 ## Sales
-I took part in responding to prospects' questionnaires and was involved in technological demos.
+I took part in responding to prospects' questionnaires and I was involved in technological demos.
  * RFP responses
  * RFQ responses
  * RFI responses
@@ -243,6 +243,5 @@ Polish
 ## Publications
  * *[O zdalnych wykładach akademickich, czyli licealiści w roli studentów anglistyki](http://jows.pl/sites/default/files/jows_2-2017_pitura_0.pdf)*{:target="_blank"}
  * *[Zdigitalizować dysleksję. Jak nauczać dźwięków języka angielskiego](http://jows.pl/sites/default/files/jows_2-2017_lodejkaron_1.pdf)*{:target="_blank"}
-{: .links}
 
 {% include print/print_button.html %} 

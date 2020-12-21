@@ -27,7 +27,6 @@ You can use Klipps to convert your Kindle clippings to a static site in three si
 
 ## Related links 
  * [Klipps on GitHub](https://github.com/rafalkaron/Klipps){:target="_blank"}
-{: .links}
 
 # Hosty ![Hosty logo](assets/media/hosty/hosty.svg)
 [Hosty](https://github.com/rafalkaron/hosty){:target="_blank" title="Hosty on GitHub"} enables you to host a website on a local web server without the need to open a terminal.
@@ -46,7 +45,6 @@ Some advanced WebHelps may need to be hosted on a web server to display content 
 ## Related links
  * [Hosty on GitHub](https://github.com/rafalkaron/Hosty){:target="_blank"}
  * [MDN: What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server){:target="_blank"}
-{: .links}
 
 # importaint
 [importaint](https://github.com/rafalkaron/importaint){:target="_blank" title="importaint on GitHub"} is a CLI tool that enables you to compile a CSS file with `@import` rules into a resolved CSS file without the `@import` rules.
@@ -127,7 +125,6 @@ importaint is useful if you want to:
 ## Related links
  * [importaint on GitHub](https://github.com/rafalkaron/importaint){:target="_blank"}
  * [MDN: @import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import){:target="_blank"}
-{: .links}
 
 # MarkUP
 [MarkUP](https://github.com/rafalkaron/markup){:target="_blank" title="MarkUP on GitHub"} is a CLI tool that enables you to batch-convert Markdown or HTML to DITA. 
@@ -271,13 +268,12 @@ MarkUP is useful if you want to:
  * [MarkUP on GitHub](https://github.com/rafalkaron/markup){:target="_blank"}
  * [Markdown Guide](https://www.markdownguide.org/){:target="_blank"}
  * [DITA Specs](http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.html){:target="_blank"}
-{: .links}
 
 # PrincePal
-[PrincePal](https://github.com/rafalkaron/princepal){:target="_blank" title="PrincePal on GitHub"} is a CLI tool that enables you to efficiently preview PDF documents produced with [Prince](https://www.princexml.com/){:target="_blank"}.
+[PrincePal](https://github.com/rafalkaron/princepal){:target="_blank" title="PrincePal on GitHub"} is a CLI tool that makes it easier to preview PDF documents produced with [Prince](https://www.princexml.com/){:target="_blank"}.
 
 ## Prerequisites
-To use PrincePal, you need to install Prince first. For more information, see the [Prince Installation Guide](https://www.princexml.com/doc/installing/).
+To use PrincePal, you need to install Prince first. For more information, see the [Prince Installation Guide](https://www.princexml.com/doc/installing/){:target="_blank"}.
 
 ## Interface
 ```
@@ -306,21 +302,15 @@ optional arguments:
                         Pick the output folder on your own
 ```
 
-## Features
+## Key Features
 PrincePal enables you to:
- * Batch-convert HTML files and open preview for the converted PDF files
- * Specify CSS styling for conversion
- * Specify input and output directories
- * Specify the number of concurrent jobs
- * Delete PDF files from the script directory
-
-## Use cases
-PrincePal makes developing Prince PDF styling easier by enabling you to preview multiple content sets.
+ * Batch-convert HTML files and preview the converted PDF files
+ * Specify the styling for PDF files
+ * Specify the input and output directories
 
 ## Related links
  * [PrincePal on GitHub](https://github.com/rafalkaron/princepal){:target="_blank"}
  * [Prince Converter](https://www.princexml.com/){:target="_blank"}
-{: .links}
 
 # rafalkaron.github.io
 I designed and developed this very site from scratch.
@@ -335,7 +325,7 @@ Liquid
 : Outputting variables and controlling the template logic.
 
 HTML
-: Specifying modular page layouts.
+: Specifying the page layout.
 
 SCSS
 : Styling the site for different media types and devices.
@@ -348,7 +338,7 @@ Kramdown
 {: .two_column}
 
 ## Related links
- * [r-jekyll-theme on GitHub](https://github.com/rafalkaron/r-jekyll-theme)
+ * [rafalkaron.github.io on GitHub](https://github.com/rafalkaron/rafalkaron.github.io){:.target="_blank"}
+ * [r-jekyll-theme on GitHub](https://github.com/rafalkaron/r-jekyll-theme){:.target="_blank"}
  * [Jreel - Social media icons on jekyll](https://jreel.github.io/social-media-icons-on-jekyll/){:target="_blank"}
  * [Allejo - jekyll-toc](https://github.com/allejo/jekyll-toc){:target="_blank"}
-{: .links}
