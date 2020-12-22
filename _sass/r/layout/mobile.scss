@@ -47,7 +47,9 @@ header#site-header {
     left: 0;
     right: 0;
     padding: 2.5rem 5rem $margin 5rem;
-    display: flex;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: nowrap;
     align-items: flex-start;
     justify-content: space-between;
     background-color: $primary-color;
@@ -55,7 +57,8 @@ header#site-header {
 
 /* Logo */
 div#site-logo-container {
-    display: flexbox;
+    display: block;
+    float: left;
     justify-items: flex-start;
     overflow: hidden;
     margin: 0 5rem 0 0;
@@ -70,7 +73,6 @@ a#site-logo {
     text-decoration: none;
     line-height: 0.9em;
     overflow: hidden;
-    display: block;
     font-family: $logo-font;
 }
 
@@ -193,6 +195,7 @@ img.footer-icon {
         flex-direction: column;
     }
     div#site-logo-container {
+        float: none;
         margin: 0;
         width: 100%;
         min-height: 2.8rem;
@@ -224,7 +227,6 @@ img.footer-icon {
     #toc-sections a.nav-link {
         font-size: 1.6rem;
     }
-
 }
 
 /* iPhone 10-ish */
