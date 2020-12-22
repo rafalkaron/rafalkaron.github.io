@@ -11,7 +11,7 @@ Batch-convert Markdown and HTML files.
     Where: 
     * **&lt;source&gt;** (required) is the file or directory that contains files that you want to convert.
     * **&lt;conversion_type&gt;** (required) is one of the following:
-        * `md_dita` - converts Markdown to DITA
+        * `md_dita` - converts Markdown to DITA 
         * `html_dita` - converts HTML to DITA
         * `md_html` - converts Markdown to HTML
         * `html_md` - converts HTML to Markdown
