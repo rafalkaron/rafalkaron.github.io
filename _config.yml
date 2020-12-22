@@ -1,4 +1,4 @@
-# Site metadata
+### Site metadata
 title: RK
 author: Rafał Karoń
 description: My portfolio
@@ -6,7 +6,7 @@ keywords: HTML, CSS, Python, Technical Writing, Techwriting, Technical Communica
 since: 2020
 logo: "RK"
 
-# Contact data
+### Contact data
 contact:
   email: 
     id: 'rafalkaron@gmail.com'
@@ -39,7 +39,7 @@ contact:
     icon: "assets/icons/500px.svg"
     icon_dark: "assets/icons/500px_dark.svg"
 
-# Site configuration
+### Site configuration
 livereload: true
 exclude: 
   - LICENSE
@@ -49,3 +49,11 @@ exclude:
 markdown: kramdown
 kramdown:
   input: GFM
+
+### github-pages-remote theme
+plugins:
+ - jekyll-remote-theme
+remote_theme: rafalkaron/r-jekyll-theme@main
+
+### Uncomment for gem-based theme
+#theme: r-jekyll-theme
