@@ -131,7 +131,7 @@ dmypy.json
 # Jekyll
 .jekyll-cache
 .sass-cache
-_site
+_site/
 
 .vscode/
 .DS_Store
