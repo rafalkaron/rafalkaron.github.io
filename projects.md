@@ -8,7 +8,7 @@ order: "2"
 {% include glossary.md %}
 # Klipps ![Klipps logo](assets/media/klipps/klipps_logo.svg)
 [Klipps](https://github.com/rafalkaron/klipps){:target="_blank" title="Klipps on GitHub"} enables you to export your Kindle clippings to a static site.  
-You can open the exported static site in any web browser and share it with others.
+You can open the exported static site in any web browser and share it with your friends.
 
 ## Kindle clippings
 When you highlight a sentence in Kindle, the sentence is saved to the [My Clippings.txt](assets/media/klipps/My%20Clippings.txt){:target="_blank" title="Sample Kindle clippings file"} file. The file often packs interesting content but it always looks dull.  
