@@ -342,4 +342,4 @@ Kramdown
  * [r-jekyll-theme on GitHub](https://github.com/rafalkaron/r-jekyll-theme){:target="_blank"} 
  * [r-jekyll-theme preview](https://rafalkaron.github.io/r-jekyll-theme/){:target="_blank"}
  * [Jreel - Social media icons on jekyll](https://jreel.github.io/social-media-icons-on-jekyll/){:target="_blank"}
- * [Allejo - jekyll-toc](https://github.com/allejo/jekyll-toc){:target="_blank"}
+ * [Allejo - jekyll-toc](https://github.com/allejo/jekyll-toc){:target="_blank"} 
