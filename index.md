@@ -3,7 +3,7 @@ layout: default
 title: Me
 order: "1"
 #navtitle:
-#outputclass:
+#outputclass: test
 ---
 {% include glossary.md %}
 # Content developer
