@@ -2,8 +2,8 @@
 
 <footer id="site-footer">
     <div class="footer-column footer-contact">
-        {%- if site.data.contact %}
-            {%- assign con = site.data.contact -%}
+        {%- if site.contact %}
+            {%- assign con = site.contact -%}
             {%- for entry in con -%}
                 {%- assign key = entry | first -%}
                 {% if con[key].id %}
@@ -12,6 +12,6 @@
             {% endfor %}
         {%- endif %}
     </div>
-    <div class="footer-column footer-copyright">Copyright © {{site.data.meta.since}}-{{ 'now' | date: "%Y" }} <a class="footer-link" href="{{site.data.contact.email.href}}{{site.data.contact.email.id}}" target="blank">{{site.data.meta.author}}</a>.</div>
+    <div class="footer-column footer-copyright">Copyright © {{site.since}}-{{ 'now' | date: "%Y" }} <a class="footer-link" href="{{site.email.href}}{{site.email.id}}" target="blank">{{site.author}}</a>.</div>
 </footer>
 
