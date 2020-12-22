@@ -1,7 +1,7 @@
 ---
-layout: multipage
+layout: default
 title: Projects
-order: "1"
+order: "2"
 #navtitle:
 #outputclass:
 ---

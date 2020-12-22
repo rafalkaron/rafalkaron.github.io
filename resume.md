@@ -1,5 +1,5 @@
 ---
-layout: multipage
+layout: default
 title: Resume
 order: "3"
 #navtitle:
