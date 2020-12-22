@@ -83,7 +83,7 @@ I am a self-taught Python coder who automates repetitive tasks, batch-converts c
 I am a fan of the [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/){:target="_blank"} book and course.
 
 ### Ruby
-I know Ruby enough to set up Jekyll locally and generate static sites.
+I know Ruby enough to set up Jekyll locally and generate static sites. I can also publish Ruby gems.
 
 ## Frontend
 Does every content developer dream of styling their content, or is it just me?
