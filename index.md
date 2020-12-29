@@ -170,7 +170,7 @@ I find paper folding both intricate and relaxing. Also, paper figurines make fan
 
 ## Cycling
 
-I spent a half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike.
+I spent half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike.
 ![Bike photo](assets/media/me/bicycle.jpg){:width="500px;" .center .shadow}
 
 ## Running
