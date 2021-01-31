@@ -4,7 +4,7 @@ author: Rafał Karoń
 description: My portfolio
 keywords: HTML, CSS, Python, Technical Writing, Techwriting, Technical Communication, Techcom, Information Development, Frontend, Backend, Scripts, Automation
 since: 2020
-logo: "RK"
+logo: RK
 
 ### Contact data
 contact:
@@ -49,10 +49,11 @@ exclude:
 markdown: kramdown
 kramdown:
   input: GFM
+show_drafts: False
 
 ### github-pages-remote theme
 plugins:
- - jekyll-remote-theme
+  - jekyll-remote-theme
 remote_theme: rafalkaron/r-jekyll-theme@main
 
 ### Uncomment for gem-based theme
