@@ -1,5 +1,5 @@
 ---
-layout: 
+layout:
 title: Blog
 order: "4"
 ---
