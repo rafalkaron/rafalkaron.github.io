@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Me
 order: "1"
 #navtitle:
