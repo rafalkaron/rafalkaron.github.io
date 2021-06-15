@@ -135,3 +135,5 @@ _site
 
 .vscode/
 .DS_Store
+Gemfile.lock
+.jekyll-metadata
