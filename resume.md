@@ -90,16 +90,19 @@ I am mostly a self-taught coder that uses **Git** for version control.
 
 * HTML 5
 * CSS 3
+* JavaScript
 * SCSS
 * XML
-* Gatsby JS
+* Gatsby
 * Jekyll
+* Docusaurus
 * GitHub Pages
 {: .items}
 
 ### Backend
 
 * Python
+* Node.js
 * Ruby
 * Liquid
 * Regex
@@ -172,6 +175,7 @@ As a technical writer with a number of side-skills, I am familiar with a wide va
 * oXygen
 * easyDITA
 * DITA-OT
+* Schematron
 * Prince XML
 * Moodle LMS
 {: .items}
