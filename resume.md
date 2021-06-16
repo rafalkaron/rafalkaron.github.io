@@ -108,6 +108,7 @@ I am mostly a self-taught coder that uses **Git** for version control.
 * Regex
 * JSON
 * YAML
+* Schematron
 {: .items}
 
 ## Agile methodologies

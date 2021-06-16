@@ -363,16 +363,36 @@ The R theme is a content-focused webhelp based on a highly customizable and exte
 
 An online plaintext to Morse code converter.
 
-Features
-*
+!["My Clippings.html" file](assets/media/morsy/morsy.png/){: title="Morsy" .shadow .center width="580px;"}
+
+## Technologies used
+
+I used the following technologies to develop Morsy:
+
+* HTML
+* CSS
+* Vanilla JavaScript
+
+## Features
+
+Morsy includes the following features:
+
+* Instant conversion
+* Playback controls
+* Light signals
+
+## Related links
+
+* [Morsy](https://rafalkaron.github.io/morsy/){:target="_blank"}
+* [Morsy on GitHub](https://github.com/rafalkaron/morsy/){:target="_blank"}
 
 # R Jekyll theme
 
-I designed and developed a Jekyll template for this very site from scratch.
+I designed and developed a portfolio Jekyll template from scratch. This site is based on the template.
 
 ## Technologies
 
-I used the following technologies to develop [r-jekyll-theme](https://rafalkaron.github.io/r-jekyll-theme){:target="_blank"}:
+I used the following technologies to develop the theme:
 
 Ruby
 : Setting up a local Jekyll development environment.
