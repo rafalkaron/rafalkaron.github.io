@@ -108,7 +108,6 @@ I am mostly a self-taught coder that uses **Git** for version control.
 * Regex
 * JSON
 * YAML
-* Schematron
 {: .items}
 
 ## Agile methodologies
@@ -176,6 +175,7 @@ As a technical writer with a number of side-skills, I am familiar with a wide va
 * oXygen
 * easyDITA
 * DITA-OT
+* Schematron
 * Prince XML
 * Moodle LMS
 {: .items}

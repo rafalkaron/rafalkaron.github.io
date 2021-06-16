@@ -353,17 +353,11 @@ PrincePal enables you to:
 * [PrincePal on GitHub](https://github.com/rafalkaron/princepal){:target="_blank"}
 * [Prince Converter](https://www.princexml.com/){:target="_blank"}
 
-# R Docusaurus theme
-
-The R theme is a content-focused webhelp based on a highly customizable and extensible Classic Docusaurus Theme.
-
-## Related links
-
 # Morsy
 
 An online plaintext to Morse code converter.
 
-!["My Clippings.html" file](assets/media/morsy/morsy.png/){: title="Morsy" .shadow .center width="580px;"}
+![Morsy interface](assets/media/morsy/morsy.png/){: title="Morsy" .shadow .center"}
 
 ## Technologies used
 
@@ -386,9 +380,21 @@ Morsy includes the following features:
 * [Morsy](https://rafalkaron.github.io/morsy/){:target="_blank"}
 * [Morsy on GitHub](https://github.com/rafalkaron/morsy/){:target="_blank"}
 
+# R Docusaurus theme
+
+The R theme is a content-focused web help based on a highly customizable and extensible Classic Docusaurus Theme.
+
+![Docusaurus interface](assets/media/dsus/dsus.png/){: title="Docusaurus" .shadow .center"}
+
+## Related links
+
+* [r-docusaurus-theme on GitHub](https://github.com/rafalkaron/r-docusaurus-theme){:target="_blank"}
+* [r-docusaurus-theme preview](https://rafalkaron.github.io/r-docusaurus-theme/){:target="_blank"}
+
 # R Jekyll theme
 
-I designed and developed a portfolio Jekyll template from scratch. This site is based on the template.
+A simple red Jekyll theme with left navigation that's perfect for portfolios, resumes, and simple personal blogs.
+This very site is based on the R Jekyll theme.
 
 ## Technologies
 
