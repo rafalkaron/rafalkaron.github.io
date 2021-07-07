@@ -14,8 +14,8 @@ I feel comfortable in both corporate and startup environments.
 
 |     |
 |-:|:-|
-| **07.2019 – Present** <br/> Jorsek | **Information Developer/Scrum Master**               |
-| **04.2019 – 07.2019** <br/> Jorsek | **Information Developer**                            |
+| **07.2019 – Present** <br/> Heretto/Jorsek | **Information Developer/Scrum Master**               |
+| **04.2019 – 07.2019** <br/> Heretto/Jorsek | **Information Developer**                            |
 | **07.2018 – 04.2019** <br/> Pega | **Technical Documentation Specialist**                 |
 | **07.2018 – 04.2019** <br/> Motorola Solutions | **Junior Technical Writer/Scrum Master** |
 | **10.2017 – 07.2018** <br/> Motorola Solutions | **Junior Technical Writer**              |
