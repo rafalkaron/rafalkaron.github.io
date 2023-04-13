@@ -1,0 +1,27 @@
+---
+title: Morsy
+weight: 6
+description: "Morsy enables you to convert plaintext to Morse code online."
+keywords_external: ["[Morsy](https://rafalkaron.github.io/morsy/)", "[Morsy on GitHub](https://github.com/rafalkaron/morsy)"]
+---
+
+!["Morsy interface"](/media/morsy/morsy.png)
+
+## Technologies
+
+I used the following technologies to develop Morsy:
+
+* HTML
+* CSS
+* Vanilla JavaScript
+
+Due to webkit limitations, Morsy does not fully support web browsers on iOS.
+{.note}
+
+## Features
+
+Morsy includes the following features:
+
+* Instant conversion
+* Playback controls
+* Light signals

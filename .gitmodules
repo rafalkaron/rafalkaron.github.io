@@ -1,0 +1,3 @@
+[submodule "themes/r-hugo-theme"]
+	path = themes/r-hugo-theme
+	url = https://github.com/rafalkaron/r-hugo-theme.git
