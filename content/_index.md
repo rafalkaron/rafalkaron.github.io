@@ -9,37 +9,9 @@ Throughout my IT career, I have worn a number of different hats. Nevertheless, m
 
 My profession goes by different names, including: technical writer, technical documentation specialist, information developer, or content developer. Since I have had an opportunity to develop and manipulate a wide variety of assets, I find the most general *content developer* term the most apt to describe my occupation.
 
-### Deliverables
-
-As a content developer, I have been responsible for delivering different kinds of guides and product documentation, including:
-
-{{% reuse "_reuse/product_docs.md" %}}
-
-I believe that every content developer should be an information architect as well. I have been involved in development and maintenance of:
-
-{{% reuse "_reuse/ia_docs.md" %}}
-
-A well-written documentation should be understandable in plain text. However, developing and embedding media in deliverables makes them appealing to the end user. To make my documentation pleasant to look at, I have been involved in development of:
-
-{{% reuse "_reuse/media.md" %}}
-
-Did you know that content developers can cooperate with sales teams? During my startup adventure, I composed responses for the following document types sent by prospects:
-
-{{% reuse "_reuse/sales.md" %}}
-
-I have been also involved in creating sample content and templates for demo purposes.
-
-### Output formats
-
-My documentation has been published to a number of formats, including:
-
-{{% reuse "_reuse/output_formats.md" %}}
-
-I have been involved in user interface (UI) text reviews. The goal of UI text reviews is to make graphical user interfaces (GUIs) leaner and easier to navigate.
-
 ### Key tools and technologies
 
-Professionally, I have mainly worked with **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** and **DITA XML** markup language. I am also somewhat familiar with the **RST** format and I have had an opportunity to work with **Author-it**.
+Professionally, I have mainly worked with **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** that support **DITA XML**. I am also familiar with the **RST** format and I have had an opportunity to work with **Author-it**.
 
 For personal purposes, I use **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it with [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I used [Jekyll](https://jekyllrb.com/) to generate static sites.
 
@@ -57,88 +29,86 @@ I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great bas
 
 As a person who always has a clean desk, I enjoy well-curated backlogs, clearly defined items, flawless filters, and model burndown charts.
 
-My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I also find **Confluence** a good and well-integrated addition to **Jira**, which can serve as an internal knowledge base.
+My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I also find **Confluence** a good and well-integrated addition to Jira, which can serve as an internal knowledge base.
 
 I am an ardent supporter of keeping everything related to work management in a single place (WMS). In the long run, an avalanche of shared sheets is not a maintainable approach.
 
 ## Coder
 
-I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I am being mentored to advance my Python skills and learn how to collaborate with other developers in my team.
+I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.
 
-### Backend technologies
+### Technologies
 
-I am keen on finding ways to automate, optimize, and generate reports to save other content developers from opening terminals or doing repetitive work.  
+I am keen on finding ways to automate, optimize, and generate reports to save my coworkers from opening terminals or doing repetitive work.
 
 Python
-: I am a self-taught Python coder who automates repetitive tasks, batch-converts content, and makes life easier for less tech-savvy users, who prefer to steer clear of the terminal window.  
-I am a fan of the [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book and course.
+: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I implement **mypy**, **Ruff**, and **Black** into my workflow. I have also worked with **MicroPython** on **Raspberry Pi Pico** boards.
+{.text_small}
 
 Bash
 : I use Bash scripts to automate repetitive tasks on my macOS and Linux machines.
-
-Regex
-: When it comes to massive search and replace operations, Regex is my best friend.
-
-XPath
-: I use XPath to run complex XML and HTML queries that can be processed later on.
 {.text_small}
 
-Ruby
-: I know Ruby enough to set up Jekyll locally and generate static sites. I can also contribute to [RubyGems](https://rubygems.org/profiles/rafalkaron) and use [Homebrew](https://brew.sh/).
+On top of that, I like styling content and developing websites.
 
-### Frontend technologies
+HTML
+: I am proficient in using semantic HTML5 and I advocate structured content.
+{.text_small}
 
-Does every content developer dream of styling their content, or is it just me?
-
-HTML 5
-: I am proficient in using semantic HTML5 and an advocate of structured content.
-
-CSS 3
+CSS
 : I am skilled in developing CSS for different viewports, including: responsive websites, web apps, and printed media.  
 I am also familiar with **LESS** and **SCSS**.
-
-Liquid
-: I know how to leverage the liquid templating language to generate site structures that conform to my requirements.
-
-XSL
-: My limited XLS knowledge enables me to develop simple [DITA-OT](https://www.dita-ot.org/) customizations.
+{.text_small}
 
 JavaScript
-: I am currently learning JavaScript. I can manipulate the HTML DOM, implement basic functionalities to websites, and create simple web apps.
+: I use JavaScript to implement basic functionalities to websites and create simple web apps.
+{.text_small}
 
-Node.js
-: I mainly use Node.js to initialize local development environments for frameworks such as Gatsby or Docusaurus, build packages, and deploy builds.
+XML
+: I am a **DITA XML** expert familiar with both **technical content** and **learning and training** specializations. I use **XPath** to run complex queries.
 {.text_small}
 
 ### Content generators
 
-I am familiar with templating for the following generators:
+ As a content developer who uses DITA professionally, I aim at separating content from styling and making it as semantic as possible. I leverage the **Liquid** template language.
+
+DITA Open Toolkit
+: My limited **XSL** knowledge enables me to develop simple [DITA-OT](https://www.dita-ot.org/) customizations.
 
 Prince XML
 : I have a vast experience in styling PDF templates with HTML, CSS, a touch of XSLT, and the [Prince XML](https://www.princexml.com/) converter. To reduce the code maintenance time, I always make my templates modular, customizable, and extensible.
+{.text_small}
 
-Hugo and Jekyll
-: I have a considerable experience in designing, developing, and styling Hugo and Jekyll sites. As a content developer that uses DITA professionally, I aim at separating content from styling and making it as semantic as possible.
+Hugo
+: I am experienced in designing, developing, and styling Hugo sites. I developed this site from scratch in Hugo.
+{.text_small}
+
+Jekyll
+: I have a considerable experience in designing, developing, and styling Jekyll sites. My legacy website used Jekyll under the hood.
+{.text_small}
 
 Gatsby
 : I have some experience in customizing sites generated by using Gatsby with LESS, TypeScript, and Material Design in mind.
+{.text_small}
 
 Docusaurus
 : I am experienced in styling Docusaurus sites, extending Docusaurus sites functionalities, and modifying their behavior.
+{.text_small}
+
+MkDocs
+: I use MkDocs for some of my Python side projects.
+{.text_small}
 
 Sphinx
 : I have some experience in customizing Sphinx output.
 {.text_small}
 
-### Hardware and software platforms
+### Platforms
 
-On daily basis, I run **macOS**. Professionally, I use a **Windows** machine.  
-
-As a hobby, I proudly run **Fedora Linux** on my old MacBook Air. When I got serious about its installation and configuration, I even received a *New Q/A User of the Month* badge on [Ask Fedora](https://ask.fedoraproject.org/u/techno-skryba/summary).
+On daily basis, I run **macOS**. Professionally, I have been using **Windows** machines.  
+To stay in the Linux loop, I  run **Fedora** on my vintage MacBook Air and **Debian** on my **Raspberry Pi 4B**.
 
 ## Tester
-
-Does anyone need to break an app or get fussy about the UX?
 
 Documenting software often involves clicking through the GUI or using the CLI. Because of that, I often find:
 
@@ -152,7 +122,7 @@ As an Agile leader, I can log bugs, improvements, and feature suggestions like a
 
 Once a teacher, always a teacher.
 
-Having a master's degree and some experience in teaching English helps me to:
+Having a master's degree and experience in teaching English helps me to:
 
 * Clearly formulate procedural steps
 * Onboard new employees and conduct workshops
@@ -162,30 +132,48 @@ Having a master's degree and some experience in teaching English helps me to:
 
 ## After hours
 
-I am keen on cutting-edge technologies and discovering creative business models. I can appreciate art and design in many forms. I enjoy individual sports and books that broaden my worldview. I am a minimalist who requires a clean room to work or relax. I value privacy, so I am not overly active on social media.
+I am keen on cutting-edge technologies and learning about creative business models. I can appreciate art and design in many forms. I enjoy individual sports and books that broaden my worldview. I am a minimalist who requires a clean room to work or relax. I value privacy, so I am not overly active on social media.
 
 ### Technology
 
-I believe that any content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting.
+I believe that any content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting.   I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
 
-I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers. I stay up to date with the latest tech news mainly by subscribing to the [MKBHD](https://www.youtube.com/user/marquesbrownlee) and [Tech Linked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) YouTube channels. I also following the major IT industry players on Twitter and subscribe to tech-related Reddit boards.
+Here are some of the resources that enable me to stay up to date with the latest tech news:
 
-I also enjoy reading blogs about Linux, FOSS, and security.
-Here are some resources that I stay up-to-date with:
+Podcasts
 
+* [Talk Python To Me](https://talkpython.fm/)
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+* [TechWriter.koduje()](https://techwriterkoduje.pl/)
+{.items}
+
+Newsletters
+
+* [CyberExpress](https://niebezpiecznik.substack.com/)
+* [unknow.news](https://unknow.news/)
+{.items}
+
+Blogs
+
+* [Niebezpiecznik](https://niebezpiecznik.pl/)
 * [It's FOSS](https://itsfoss.com/)
 * [Fedora Magazine](https://fedoramagazine.org/)
-* [Niebezpiecznik](https://niebezpiecznik.pl/)
-* [TechWriter.koduje()](https://techwriterkoduje.pl/)
-{.text_small}
+{.items}
+
+YouTube channels
+
+* [TechLinked](https://www.youtube.com/@techlinked)
+* [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP)
+* [Fireship](https://www.youtube.com/@Fireship)
+{.items}
 
 I also enjoy fixing or upgrading hardware with my [iFixit](https://ifixit.com) kit and Leatherman multitool. I believe that the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement is a way to go.
 
 ### Photography
 
-I realize that nowadays any decent smartphone is capable of capturing and processing stunning photos. At the same time, I still enjoy setting up my Canon DSLR and manually developing RAW photos in Lightroom.  
+I realize that nowadays any decent smartphone is capable of capturing and processing stunning photos. At the same time, I still enjoy setting up my Canon DSLR and manually developing RAW photos in Lightroom or Affinity Photo.  
 
-I shoot various kinds of photos ranging from portraits through macros to abstracts. If you are curious about my approach to photography, feel free to visit [Gallery](gallery).
+I shoot various kinds of photos ranging from portraits through macros to abstracts. If you are curious about my approach to photography, feel free to visit my [Unsplash](https://unsplash.com/@rafalkaron) profile.
 
 ![A photo of Kona](/media/home/kona.jpg)
 {.large}
@@ -199,7 +187,7 @@ I find mountain hiking refreshing. It also nicely integrates with my passion for
 
 ### Cycling
 
-I spent half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike. I cycle on my road bicycle most often but I also have an old-school mountain bike (MTB) machine.
+I spent half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike. I cycle on my road bicycle most often but I also have an old-school mountain bike.
 
 ![Bike photo](/media/home/bicycle.jpg)
 {.large}
