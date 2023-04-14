@@ -40,45 +40,6 @@ I am comfortable with these markup languages:
 
 [^1]: My RST knowledge is basic. I have worked with that format in projects that involved [Sphinx](https://www.sphinx-doc.org/).
 
-#### Product documentation
-
-As a content developer, I have been responsible for delivering different kinds of guides and product documentation, including:
-
-* User guides
-* Internal guides
-* Reference guides
-* Installation guides
-* Quick start guides
-* Configuration guides
-* Disaster recovery guides
-* Release notes
-{.items}
-
-#### Content architecture
-
-I believe that every content developer should be an information architect as well. I have been involved in the development and maintenance of:
-
-* Style guides
-* Asset inventories
-* Content strategies
-* Conceptual designs
-* Technical procedures
-{.items}
-
-#### User interface
-
-I have been involved in user interface (UI) text reviews. The goal of UI text reviews is to make graphical user interfaces (GUIs) leaner, unambiguous, and easier to navigate for the end user.
-
-#### Media
-
-A well-written documentation should be understandable in plain text. However, developing and embedding media in deliverables makes them appealing to the end user. To make my documentation pleasant to look at, I have been involved in development of:
-
-* GIFs
-* Videos
-* Diagrams
-* Screenshots
-{.items}
-
 #### Output formats
 
 My documentation has been published to a number of formats, including:
@@ -92,9 +53,48 @@ My documentation has been published to a number of formats, including:
 * CHMs
 {.items}
 
+#### Asset types
+
+As a content developer, I have been responsible for delivering different kinds of guides and product documentation, including:
+
+* User guides
+* Internal guides
+* Reference guides
+* Installation guides
+* Quick start guides
+* Configuration guides
+* Disaster recovery guides
+* Release notes
+{.items}
+
+#### Information architecture
+
+I believe that every content developer should be an information architect as well. I have been involved in the development and maintenance of:
+
+* Style guides
+* Asset inventories
+* Content strategies
+* Conceptual designs
+* Technical procedures
+{.items}
+
+#### Media
+
+A well-written documentation should be understandable in plain text. However, developing and embedding media in deliverables makes them appealing to the end user. To make my documentation pleasant to look at, I have developed:
+
+* GIFs
+* Videos
+* Diagrams
+* Screenshots
+{.items}
+
+#### User interface
+
+I have been involved in user interface (UI) text reviews. The goal of UI text reviews is to make graphical user interfaces (GUIs) leaner, unambiguous, and easier to navigate for the end user. I am familiar with **Figma**.
+
 ### Sales
 
-Did you know that content developers can cooperate with sales teams? During my startup adventure, I composed responses for the following document types sent by prospects:
+During my startup adventure, I composed responses for the following document types sent by prospects:
 
 * Request for proposal (RFP)
 * Request for quotation (RFQ)
@@ -105,9 +105,9 @@ I have been also involved in creating sample content and templates for demo purp
 
 ### Coding
 
-I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. I develop internal tools in Python profesionally.
+I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. I develop internal tools in Python professionally.
 
-#### Technologies
+I am familiar with these technologies:
 
 * Python
 * Bash
@@ -125,15 +125,8 @@ I am a self-taught coder. Currently, I develop my side projects on my own and co
 * Liquid
 {.items}
 
-[^2]: My JavaScript knowledge is limited. I can manipulate the HTML DOM, implement basic functionalities to websites, and create simple web apps.
+[^2]: My JavaScript knowledge is limited. I can implement basic functionalities to websites and create simple web apps.
 [^3]: My XSL knowledge is limited. However, I can apply simple [DITA-OT](https://www.dita-ot.org/) customizations.
-
-#### Devops
-
-* GitHub Actions
-* GitHub Pages
-* pre-commit
-{.items}
 
 ### Agile methodologies
 
@@ -207,12 +200,11 @@ As an information developer and coder with a number of side-skills, I am familia
 
 * oXygen
 * easyDITA/Heretto
-* Author-it
 * Adobe Experience Manager (AEM)/Adobe Guides
+* Author-it
 * Schematron
-* Moodle LMS
+* Moodle
 * Adobe Acrobat Pro
-* Adobe Distiller
 {.items}
 
 ### Content publication tools
@@ -224,33 +216,38 @@ As an information developer and coder with a number of side-skills, I am familia
 * Gatsby
 * Docusaurus
 * Sphinx
+* MkDocs
+* Adobe Distiller
 {.items}
 
-### Coding and versioning tools
+### Coding tools
 
 * Visual Studio Code
+* Vim
+* Microsoft Remote Desktop
 * Git
 * Git Extensions
-* GitHub
 * GitLab
-* Platypus
-* Microsoft Remote Desktop
-* SSH
-* Vim
+* GitHub
+* GitHub Actions
+* GitHub Pages
+* pre-commit
+* ssh
+* cron
 {.items}
 
 ### Media development tools
 
 * Gimp
 * Snagit
-* Camtasia
-* Visio
-* Lucidchart
 * Photoshop
 * Lightroom
 * Affinity Photo
 * Procreate
 * Inkscape
+* Visio
+* Lucidchart
+* Camtasia
 * OBS Studio
 {.items}
 
@@ -325,7 +322,6 @@ Polish
 * Learning Markdown
 * Instructional Design: Creating Video Training
 * Camtasia 2018 Essential Training
-* Drupal 8 Essential Training: The Basics
 * UX Design 1: Overview
 * Visio 2019 Essential Training
 {.items}
