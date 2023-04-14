@@ -17,7 +17,7 @@ description: I have worked for large, medium, and startup-sized IT companies. I 
 | **10.2017 – 07.2018** <br/> Motorola Solutions  | **Junior Technical Writer**              |
 | **02.2017 – 10.2017** <br/> Motorola Solutions  | **Technical Writer Trainee**             |
 | **08.2016 – 01.2017** <br/> MAK                 | **English language lecturer**            |
-{.cv .text_smaller}
+{.cv .text_small}
 <!-- markdownlint-restore -->
 
 ## Key skills
@@ -30,6 +30,8 @@ I have created a wide variety of guides, design documents, and media assets. I h
 
 #### Markup languages
 
+I am comfortable with these markup languages:
+
 * DITA XML
 * HTML
 * Markdown
@@ -40,74 +42,97 @@ I have created a wide variety of guides, design documents, and media assets. I h
 
 #### Product documentation
 
-{{% reuse "_reuse/product_docs.md" %}}
+As a content developer, I have been responsible for delivering different kinds of guides and product documentation, including:
+
+* User guides
+* Internal guides
+* Reference guides
+* Installation guides
+* Quick start guides
+* Configuration guides
+* Disaster recovery guides
+* Release notes
+{.items}
 
 #### Content architecture
 
-{{% reuse "_reuse/ia_docs.md" %}}
+I believe that every content developer should be an information architect as well. I have been involved in the development and maintenance of:
 
-#### Media development
+* Style guides
+* Asset inventories
+* Content strategies
+* Conceptual designs
+* Technical procedures
+{.items}
 
-{{% reuse "_reuse/media.md" %}}
+#### User interface
+
+I have been involved in user interface (UI) text reviews. The goal of UI text reviews is to make graphical user interfaces (GUIs) leaner, unambiguous, and easier to navigate for the end user.
+
+#### Media
+
+A well-written documentation should be understandable in plain text. However, developing and embedding media in deliverables makes them appealing to the end user. To make my documentation pleasant to look at, I have been involved in development of:
+
+* GIFs
+* Videos
+* Diagrams
+* Screenshots
+{.items}
 
 #### Output formats
 
-{{% reuse "_reuse/output_formats.md" %}}
+My documentation has been published to a number of formats, including:
+
+* PDFs
+* Word documents
+* Documentation portals
+* Static sites
+* Offline helps
+* Contextual helps
+* CHMs
+{.items}
 
 ### Sales
 
-I took part in responding to prospects' questionnaires and I helped with product demos.
+Did you know that content developers can cooperate with sales teams? During my startup adventure, I composed responses for the following document types sent by prospects:
 
-{{% reuse "_reuse/sales.md" %}}
+* Request for proposal (RFP)
+* Request for quotation (RFQ)
+* Request for information (RFI)
+{.items}
+
+I have been also involved in creating sample content and templates for demo purposes.
 
 ### Coding
 
-I am a self-taught coder, who uses **Git** for version control. At my current position, I am being mentored to advance my Python skills and learn how to efficiently collaborate with other developers.
+I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. I develop internal tools in Python profesionally.
 
-#### Frontend technologies
-
-* HTML 5
-* CSS 3
-* LESS
-* SCSS
-* Liquid
-* XML
-* XSL[^2]
-* JavaScript[^3]
-* Node.js[^4]
-{.items}
-
-[^2]: My XSL knowledge is limited. However, I can apply simple [DITA-OT](https://www.dita-ot.org/) customizations.
-[^3]: My JavaScript knowledge is limited. I can manipulate the HTML DOM, implement basic functionalities to websites, and create simple web apps.
-[^4]: I mainly use Node.js to initialize local development environments for frameworks such as Gatsby or Docusaurus, build packages, and deploy web apps builds.
-
-#### Backend technologies
+#### Technologies
 
 * Python
 * Bash
-* Regex
+* HTML
+* CSS
+* LESS
+* SCSS
+* JavaScript[^2]
+* JSON
+* YAML
+* XML
+* XSL[^3]
 * XPath
-* Ruby[^5]
+* Regex
+* Liquid
 {.items}
 
-[^5]: I know Ruby enough to set up Jekyll locally and generate static sites.
-
-#### Content generators
-
-* Prince XML
-* Hugo
-* Jekyll
-* Gatsby
-* Docusaurus
-* Sphinx[^6]
-{.items}
-
-[^6]: My experience with [Sphinx](https://www.sphinx-doc.org/) is limited to basic output customizations.
+[^2]: My JavaScript knowledge is limited. I can manipulate the HTML DOM, implement basic functionalities to websites, and create simple web apps.
+[^3]: My XSL knowledge is limited. However, I can apply simple [DITA-OT](https://www.dita-ot.org/) customizations.
 
 #### Devops
 
 * GitHub Actions
 * GitHub Pages
+* pre-commit
 {.items}
 
 ### Agile methodologies
@@ -178,17 +203,27 @@ As a former teacher and an Agile leader, I embrace the importance of soft skills
 
 As an information developer and coder with a number of side-skills, I am familiar with a wide variety of tools.
 
-### Content development, management, and publication tools
+### Content development and management
 
 * oXygen
 * easyDITA/Heretto
 * Author-it
-* Adobe Experience Manager (AEM)
-* DITA-OT
+* Adobe Experience Manager (AEM)/Adobe Guides
 * Schematron
 * Moodle LMS
 * Adobe Acrobat Pro
 * Adobe Distiller
+{.items}
+
+### Content publication tools
+
+* DITA-OT
+* Prince XML
+* Hugo
+* Jekyll
+* Gatsby
+* Docusaurus
+* Sphinx
 {.items}
 
 ### Coding and versioning tools
@@ -213,10 +248,10 @@ As an information developer and coder with a number of side-skills, I am familia
 * Lucidchart
 * Photoshop
 * Lightroom
+* Affinity Photo
+* Procreate
 * Inkscape
 * OBS Studio
-* Screen2GIF
-* GIPHY Capture
 {.items}
 
 ### Work management solutions
@@ -232,7 +267,9 @@ As an information developer and coder with a number of side-skills, I am familia
 
 * Windows
 * macOS
-* Linux (Fedora, Ubuntu)
+* Fedora
+* Ubuntu
+* Debian
 * iOS
 * Android
 {.items}
@@ -271,7 +308,7 @@ Polish
 
 ### Certificates
 
-#### Coding certificates
+#### Software development
 
 * Automate the Boring Stuff with Python Programming
 * Core Python: Getting Started
@@ -283,7 +320,7 @@ Polish
 * XML Essential Training
 {.items}
 
-#### Content development certificates
+#### Content development
 
 * Learning Markdown
 * Instructional Design: Creating Video Training
@@ -304,4 +341,4 @@ Polish
 
 * [O zdalnych wykładach akademickich, czyli licealiści w roli studentów anglistyki](https://jows.pl/artykuly/o-zdalnych-wykladach-akademickich-czyli-licealisci-w-roli-studentow-anglistyki)
 * [Zdigitalizować dysleksję. Jak nauczać dźwięków języka angielskiego](https://jows.pl/artykuly/zdigitalizowac-dysleksje-jak-nauczac-dzwiekow-jezyka-angielskiego)
-{.text_smaller}
+{.items}
