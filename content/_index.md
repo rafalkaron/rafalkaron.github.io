@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About me
 description: Key information about me.
 ---
 

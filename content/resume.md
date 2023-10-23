@@ -1,7 +1,6 @@
 ---
 title: Resume
 description: I have worked for large, medium, and startup-sized IT companies. I feel comfortable in corporate and startup environments.
-
 ---
 
 ## Professional experience
