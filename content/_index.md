@@ -15,41 +15,34 @@ Professionally, I have mainly worked with **oXygen XML Editor** integrated with 
 
 For personal purposes, I use **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it with [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I used [Jekyll](https://jekyllrb.com/) to generate static sites.
 
-## Agile leader
-
-Does Scrum work in every content development team? Yes and no. Does every content development team need an Agile leader? Yes, it does.
-
-### Methodology
-
-Scrum was designed as a work framework with an emphasis on software development teams. While it is possible to treat [docs as code](https://www.writethedocs.org/guide/docs-as-code/), content and software development are still significantly different processes. The difference between them is particularly prominent if content creators are not regular members of software development teams.
-
-I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great basis for building an Agile framework in any development team. However, I often take the liberty of proposing, test-driving, and implementing various alterations to the approach suggested in the guide. If the docs tend to be developed on an ad hoc basis, I am not afraid of gravitating towards the Kanban framework.
-
-### Tools
-
-As a person who always has a clean desk, I enjoy well-curated backlogs, clearly defined items, flawless filters, and model burndown charts.
-
-My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I also find **Confluence** a good and well-integrated addition to Jira, which can serve as an internal knowledge base.
-
-I am an ardent supporter of keeping everything related to work management in a single place (WMS). In the long run, an avalanche of shared sheets is not a maintainable approach.
-
 ## Coder
 
-I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.
+I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.  
+
+I won't lie, I prompt Bing for inspiration from time to time. I've found it extremely helpful for composing shell scripts that run in my homelab.
 
 ### Technologies
 
 I am keen on finding ways to automate, optimize, and generate reports to save my coworkers from opening terminals or doing repetitive work.
 
 Python
-: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I implement **mypy**, **Ruff**, and **Black** into my workflow. I have also worked with **MicroPython** on **Raspberry Pi Pico** boards.
+: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow.
 {.text_small}
+
+MicroPython
+: I run MicroPython on **Raspberry Pi[^1] Pico** boards. The code interacts with databases and APIs, reads sensor data, and manipulates output devices.
+{.text_small}
+
+[^1]: Raspberry Pi is a trademark of Raspberry Pi Ltd
+
+InfluxDB
+: I use InfluxDB to gather data from sensors and APIs in my homelab.
 
 Bash
 : I use Bash scripts to automate repetitive tasks on my macOS and Linux machines.
 {.text_small}
 
-On top of that, I like styling content and developing websites.
+Apart from the backend activities, I also enjoy styling and templating websites and other outputs.
 
 HTML
 : I am proficient in using semantic HTML5 and I advocate structured content.
@@ -70,7 +63,7 @@ XML
 
 ### Content generators
 
- As a content developer who uses DITA professionally, I aim at separating content from styling and making it as semantic as possible. I leverage the **Liquid** template language.
+ As a content developer who uses DITA professionally, I aim at separating content from styling and making it as semantic as possible.
 
 DITA Open Toolkit
 : My limited **XSL** knowledge enables me to develop simple [DITA-OT](https://www.dita-ot.org/) customizations.
@@ -80,7 +73,7 @@ Prince XML
 {.text_small}
 
 Hugo
-: I am experienced in designing, developing, and styling Hugo sites. I developed this site from scratch in Hugo.
+: I am experienced in designing, developing, and styling Hugo sites. I developed this site from scratch in Hugo. I leverage the **Liquid** template language to keep the template logic modular.
 {.text_small}
 
 Jekyll
@@ -106,7 +99,25 @@ Sphinx
 ### Platforms
 
 On daily basis, I run **macOS**. Professionally, I have been using **Windows** machines.  
-To stay in the Linux loop, I  run **Fedora** on my vintage MacBook Air and **Debian** on my **Raspberry Pi 4B**.
+To stay in the Linux loop, I  run **Ubuntu** (formerly **Fedora**) on my vintage MacBook Air and **Debian** on my **Raspberry Pi[^1] 4B**.
+
+## Agile leader
+
+Does Scrum work in every content development team? Yes and no. Does every content development team need an Agile leader? Yes, it does.
+
+### Methodology
+
+Scrum was designed as a work framework with an emphasis on software development teams. While it is possible to treat [docs as code](https://www.writethedocs.org/guide/docs-as-code/), content development and software development are still significantly different processes. The difference between them is particularly prominent if content creators are not regular members of software development teams.
+
+I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great basis for building an Agile framework in any development team. However, I often take the liberty of proposing, test-driving, and implementing various alterations to the approach suggested in the guide. If the docs tend to be developed on an ad hoc basis, I am not afraid of gravitating towards the Kanban framework.
+
+### Tools
+
+As a person who always has a clean desk, I enjoy well-curated backlogs, clearly defined items, flawless filters, and model burndown charts.
+
+My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I also find **Confluence** a good and well-integrated addition to Jira, which can serve as an internal knowledge base.
+
+I am an ardent supporter of keeping everything related to work management in a single place. In the long run, an avalanche of shared sheets is not a maintainable approach.
 
 ## Tester
 
@@ -136,38 +147,48 @@ I am keen on cutting-edge technologies and learning about creative business mode
 
 ### Technology
 
-I believe that any content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting.   I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
+I believe that any content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting. I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
 
 Here are some of the resources that enable me to stay up to date with the latest tech news:
 
 Podcasts
 
-* [Talk Python To Me](https://talkpython.fm/)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+* [Talk Python To Me](https://talkpython.fm/)
 * [TechWriter.koduje()](https://techwriterkoduje.pl/)
+* [Na Podsłuchu](https://niebezpiecznik.pl/podcast/)
 {.items}
 
 Newsletters
 
-* [CyberExpress](https://niebezpiecznik.substack.com/)
 * [unknow.news](https://unknow.news/)
+* [CyberExpress](https://niebezpiecznik.substack.com/)
+* [Various RSS feeds in NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
 {.items}
 
 Blogs
 
 * [Niebezpiecznik](https://niebezpiecznik.pl/)
 * [It's FOSS](https://itsfoss.com/)
-* [Fedora Magazine](https://fedoramagazine.org/)
+* [OMG! Ubuntu](https://www.omgubuntu.co.uk/)
+* [OMG! Linux](https://www.omglinux.com/)
+* [Pi My Life Up!](https://pimylifeup.com/)
+* [RaspberryTips](https://raspberrytips.com/)
+* [The MagPi magazine](https://magpi.raspberrypi.com/articles)
+* [Jeff Geerling's Blog](https://www.jeffgeerling.com/blog)
 {.items}
 
 YouTube channels
 
+* [Linus Tech Tips](https://www.youtube.com/@LinusTechTips)
 * [TechLinked](https://www.youtube.com/@techlinked)
+* [ShortCircuit](https://www.youtube.com/@ShortCircuit)
 * [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP)
 * [Fireship](https://www.youtube.com/@Fireship)
+* [iFixit](https://www.youtube.com/@iFixitYourself)
 {.items}
 
-I also enjoy fixing or upgrading hardware with my [iFixit](https://ifixit.com) kit and Leatherman multitool. I believe that the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement is a way to go.
+I also enjoy fixing or upgrading hardware with my [iFixit](https://ifixit.com) kit and a Leatherman multitool. I believe that the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement is a way to go.
 
 ### Photography
 
@@ -175,33 +196,37 @@ I realize that nowadays any decent smartphone is capable of capturing and proces
 
 I shoot various kinds of photos ranging from portraits through macros to abstracts. If you are curious about my approach to photography, feel free to visit my [Unsplash](https://unsplash.com/@rafalkaron) profile.
 
+![A photo of Kona](/media/home/kona2.jpg)
 ![A photo of Kona](/media/home/kona.jpg)
-{.large}
+{.two_column}
 
 ### Hiking
 
 I find mountain hiking refreshing. It also nicely integrates with my passion for photography. Luckily, there is an abundance of beautiful mountains to climb and photograph in my area.
 
 ![A photo from Ciemniak](/media/home/ciemniak.jpg)
-{.large}
+![Bieszczady](/media/home/bieszczady.jpg)
+{.two_column}
 
 ### Cycling
 
 I spent half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike. I cycle on my road bicycle most often but I also have an old-school mountain bike.
 
-![Bike photo](/media/home/bicycle.jpg)
-{.large}
+![Bike photo](/media/home/bicycle1.jpg)
+![Bike photo](/media/home/bicycle2.jpg)
+{.two_column}
 
 ### Running
 
 I usually run alone or with my friend. However, I broke my routine by taking part in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
 
 !["Business Run 2018" medal](/media/home/business_run.jpg)
-{.large}
+{.huge .center}
 
 ### Origami
 
 I find paper folding both intricate and relaxing. Also, paper figurines make fantastic gifts and minimalistic home or office decor.
 
+![Origami owl](/media/home/origami_snail.jpg)
 ![Origami fish](/media/home/origami_fish.jpg)
-{.large}
+{.two_column}

@@ -89,7 +89,7 @@ A well-written documentation should be understandable in plain text. However, de
 
 #### User interface
 
-I have been involved in user interface (UI) text reviews. The goal of UI text reviews is to make graphical user interfaces (GUIs) leaner, unambiguous, and easier to navigate for the end user. I am familiar with **Figma**.
+I have been involved in user interface text reviews. The goal of UI text reviews is to make graphical user interfaces leaner, unambiguous, and easier to navigate for the end user. I also helped software development teams with writing log messages. I am familiar with **Figma**.
 
 ### Sales
 
@@ -106,9 +106,10 @@ I have been also involved in creating sample content and templates for demo purp
 
 I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. I develop internal tools in Python professionally.
 
-I am familiar with these technologies:
+I am familiar with these backend technologies:
 
 * Python
+* MicroPython
 * Bash
 * HTML
 * CSS
@@ -122,6 +123,12 @@ I am familiar with these technologies:
 * XPath
 * Regex
 * Liquid
+* InfluxDB
+* Grafana
+* Samba
+* Nginx
+* Telegraf
+* Docker
 {.items}
 
 [^2]: My JavaScript knowledge is limited. I can implement basic functionalities to websites and create simple web apps.
@@ -162,18 +169,22 @@ As a former English teacher, I enjoy taking part in initiatives like:
 I have worked for diverse companies that gave me insight into different areas of the IT industry.
 
 * Networks
-* Cloud computing
-* SaaS
-* No/Low Code
-* Virtualization
 * Redundancy
+* Virtualization
+* Cloud computing
 * Information assurance
 * Telecommunication
+* SaaS
+* No/Low Code
 * Technical communication
 * Component Content Management System (CCMS)
 * Learning
 * Industrial automation
 * Human-Machine Interface (HMI)
+* Single-Board Computers (SBC)
+* Programmable Logic Controllers (PLC)
+* Internet of Things (IoT)
+* Visualization
 {.items}
 
 ### Soft skills
@@ -204,11 +215,13 @@ As an information developer and coder with a number of side-skills, I am familia
 * Schematron
 * Moodle
 * Adobe Acrobat Pro
+* Microsoft Word
 {.items}
 
 ### Content publication tools
 
 * DITA-OT
+* oXygen WebHelp
 * Prince XML
 * Hugo
 * Jekyll
@@ -221,18 +234,41 @@ As an information developer and coder with a number of side-skills, I am familia
 
 ### Coding tools
 
+#### Desktop and web applications
+
 * Visual Studio Code
-* Vim
 * Microsoft Remote Desktop
-* Git
 * Git Extensions
 * GitLab
 * GitHub
 * GitHub Actions
 * GitHub Pages
+{.items}
+
+#### CLI applications and utilities
+
+* (neo)vim
+* git
 * pre-commit
 * ssh
+* shellcheck
 * cron
+* cat
+* bat
+* top
+* htop
+* bpytop
+* (image)magick
+* pyenv
+* rbenv
+* brew
+* apt
+* dnf
+* pipx
+* snap
+* flatpak
+* tree
+* mail
 {.items}
 
 ### Media development tools
@@ -292,7 +328,7 @@ I am a trained teacher, who found his place in the IT industry.
 ### Degree
 
 Master of Arts (MA), English Philology (Digital Teacher)
-: Pedagogical University of Cracow
+: Pedagogical University of Cracow/University of the National Education Commission, Krakow
 
 ### Languages
 
@@ -310,7 +346,7 @@ Polish
 * Core Python: Getting Started
 * Python: The Big Picture
 * Learn CSS - for Beginners
-* CSS Essential Training 1
+* CSS Essential Training
 * HTML Essential Training
 * Visual Studio Code for Web Developers
 * XML Essential Training
