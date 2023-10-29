@@ -1,6 +1,6 @@
 ---
 title: Homelab
-weight: 14
+weight: 12
 description: "Multipurpose hub based on Raspberry Pi 4B+ and the latest Debian."
 ---
 
@@ -9,13 +9,13 @@ description: "Multipurpose hub based on Raspberry Pi 4B+ and the latest Debian."
 {{% reuse "_reuse/hardware_components.md" %}}
 
 * Raspberry Pi[^1] 4B+
-* TotemMaker
-* NAS
-* Temperature and humidity sensor
+* Grove - TotemMaker (TKM-GR1)
+* DAS (CAMYSAFEDUAL25)
+* Temperature and humidity sensor (AM2302)
 * RFID reader
 * Breadboard
-* Connecting cables
 * Fan
+* Connecting cables
 
 [^1]: {{% reuse "_reuse/copyr_rpi.md" %}}
 

@@ -7,24 +7,42 @@ keywords_external: ["[Scripts on GitHub](https://github.com/rafalkaron/scripts)"
 
 ## Fedora
 
-Scripts dedicated for Fedora and other Linux distributions that utilize similar technologies.
+font_search
+: Returns available fonts.
 
-### search.sh
+backup
+: Progressively backs up root and home with btrfs subvolumes.
 
-Searches for a package name passed as an argument in Flatpak, DNF, and Brew repositories.
+list_packages
+: Lists installed dnf, flatpak, and brew packages.
 
-### backup.sh
+mount_crypted
+: Mounts encrypted media.
 
-Creates a incremental Btrfs snapshot and sends it to an external medium. Then, creates a Deja-Dup backup.
+restore
+: Restore root or home from btrfs subvolumes.
 
-### update.sh
+search_packages
+: Searches for packages in flatpak, dnf, and brew repositories.
 
-Updates Flatpak, DNF, and Brew packages.
+update
+: Updates dnf, flatpak, and brew packages.
 
 ## macOS
 
-Scripts specific to macOS.
+update
+: Updates brew and pipx packages.
 
-### update.sh
+discord_message
+: Sends a discord message to a defined channel.
 
-Updates AppStore and Brew packages.
+to_base64
+: Converts a string to Base64.
+
+## Ubuntu
+
+pyenv_install
+: Works around an issue with openssl and pyenv.
+
+update
+: Updates apt, snap, flatpak, brew, and pipx packages.

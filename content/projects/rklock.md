@@ -1,19 +1,22 @@
 ---
 title: RKlock
-weight: 13
-description: "Clock and weather station that displays data on an e-ink display."
+weight: 11
+description: "Clock and weather station that uses an e-ink display to present data."
 keywords_external: ["[RPi1 on GitHub](https://github.com/rafalkaron/rklock)"]
 ---
 
 ## Overview
+
+![RPi1 front](/media/rklock/rklock.jpg)
+{.large}
 
 ## Hardware
 
 {{% reuse "_reuse/hardware_components.md" %}}
 
 * Raspberry Pi[^1] Pico W
-* E-ink display
-* Temperature sensor
+* E-ink display (Waveshare 20264)
+* Temperature sensor (DS18B20)
 * White LED
 * Resistors
 * Connecting cables

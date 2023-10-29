@@ -1,20 +1,23 @@
 ---
 title: RSensor
-weight: 12
+weight: 14
 description: "Flood, fire, and temperature sensor that sends Discord messages."
 keywords_external: ["[RSensor on GitHub](https://github.com/rafalkaron/rsensor)"]
 ---
 
 ## Overview
 
+![RSensor](/media/rsensor/rsensor.jpg)
+{.huge}
+
 ## Hardware
 
 {{% reuse "_reuse/hardware_components.md" %}}
 
 * Raspberry Pi[^1] Pico W
-* Temperature sensor
-* Rain sensor
-* Fire sensor
+* Temperature sensor (DS18B20)
+* Rain sensor (YL-83)
+* Fire sensor (Iduino SE060)
 * Resistors
 * Connecting cables
 * Micro-B USB cable

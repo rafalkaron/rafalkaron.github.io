@@ -1,6 +1,6 @@
 ---
 title: RBlue
-weight: 13
+weight: 15
 description: "Temperature sensor that sends data over Bluetooth Low Energy (BLE)."
 keywords_external: ["[RBlue on GitHub](https://github.com/rafalkaron/rblue)"]
 ---
@@ -10,9 +10,10 @@ keywords_external: ["[RBlue on GitHub](https://github.com/rafalkaron/rblue)"]
 {{% reuse "_reuse/hardware_components.md" %}}
 
 * Raspberry Pi[^1] Pico W
-* Temperature sensor
+* Temperature sensor (DS18B20)
 * Resistors
 * Connecting cables
+* Powerbank
 * Micro-B USB cable
 
 [^1]: {{% reuse "_reuse/copyr_rpi.md" %}}

@@ -7,4 +7,4 @@ I attach Raspberry Pi[^1] Pico to Raspberry Pi[^1] 4B+ that I remote into from m
 * [mpremote](https://docs.micropython.org/en/v1.18/reference/mpremote.html) CLI tool  
 I use mpremote to install packages through [mip](https://docs.micropython.org/en/latest/reference/packages.html).
 
-I used the most recent [MicroPython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#drag-and-drop-micropython) available at the development time to create the runtime logic.
+To create the runtime logic, I used the most recent [MicroPython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#drag-and-drop-micropython) version available at the development time.
