@@ -1,4 +1,4 @@
 ---
 title: Projects
-description: My coding and electronics projects.
+description: My coding, homelab, and electronics projects.
 ---

@@ -5,6 +5,8 @@ description: "Clock and weather station that displays data on an e-ink display."
 keywords_external: ["[RPi1 on GitHub](https://github.com/rafalkaron/rklock)"]
 ---
 
+## Overview
+
 ## Hardware
 
 {{% reuse "_reuse/hardware_components.md" %}}
