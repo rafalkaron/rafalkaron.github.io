@@ -1,7 +1,7 @@
 ---
 title: Bash scripts
 weight: 10
-description: "Bash scripts that I developed to automate repetitive tasks on my macOS and Linux machines."
+description: "Bash scripts that automate repetitive tasks on macOS and Linux machines."
 keywords_external: ["[Scripts on GitHub](https://github.com/rafalkaron/scripts)"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Hosty
 weight: 2
-description: "Hosty enables you to host a website on a local web server without a need to open the terminal."
+description: "Host a website on a local web server without a need to open the terminal."
 keywords_external: ["[Hosty on GitHub](https://github.com/rafalkaron/Hosty)", "[MDN: What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)"]
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: r-hugo-theme
 weight: 9
-description: "r-hugo-theme is perfect for a Hugo portfolio, documentation library, or blog. This site uses the r-hugo-theme."
+description: "Hugo template perfect for a portfolio, documentation library, or blog."
 keywords_external: ["[r-hugo-theme on GitHub](https://github.com/rafalkaron/r-hugo-theme)", "[r-hugo-theme demo](https://rafalkaron.github.io/r-hugo-theme-demo)"]
 ---
+
+This site uses the r-hugo-theme.
+{.note}
 
 ## Interface
 
