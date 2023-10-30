@@ -20,7 +20,7 @@ mount_crypted
 : Mounts encrypted media.
 
 restore
-: Restore root or home from btrfs subvolumes.
+: Restores root or home from btrfs subvolumes.
 
 search_packages
 : Searches for packages in flatpak, dnf, and brew repositories.
