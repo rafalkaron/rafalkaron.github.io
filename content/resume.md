@@ -5,19 +5,7 @@ description: I have worked for large, medium, and startup-sized IT companies. I 
 
 ## Professional experience
 
-<!-- markdownlint-disable -->
-|                                                                                            |
-|-:                                               |                                        :-|
-| **09.2021 – present** <br/> Rockwell Automation | **Information Developer**                |
-| **06.2020 – 08.2021** <br/> Heretto/Jorsek      | **Information Developer/Scrum Master**   |
-| **08.2019 – 06.2020** <br/> Heretto/Jorsek      | **Information Developer**                |
-| **04.2019 – 07.2019** <br/> Pega                | **Technical Documentation Specialist**   |
-| **07.2018 – 03.2019** <br/> Motorola Solutions  | **Junior Technical Writer/Scrum Master** |
-| **10.2017 – 07.2018** <br/> Motorola Solutions  | **Junior Technical Writer**              |
-| **02.2017 – 10.2017** <br/> Motorola Solutions  | **Technical Writer Trainee**             |
-| **08.2016 – 01.2017** <br/> MAK                 | **English language lecturer**            |
-{.cv .text_small}
-<!-- markdownlint-restore -->
+{{% reuse "_reuse/experience.html" %}}
 
 ## Key skills
 

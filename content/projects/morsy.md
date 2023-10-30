@@ -1,9 +1,11 @@
 ---
 title: Morsy
 weight: 6
-description: "Morsy enables you to convert plaintext to Morse code online."
+description: "Convert plaintext to Morse code and play your message."
 keywords_external: ["[Morsy](https://rafalkaron.github.io/morsy/)", "[Morsy on GitHub](https://github.com/rafalkaron/morsy)"]
 ---
+
+## Interface
 
 !["Morsy interface"](/media/morsy/morsy.png)
 

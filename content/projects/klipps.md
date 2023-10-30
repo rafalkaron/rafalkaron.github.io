@@ -1,7 +1,7 @@
 ---
 title: Klipps
 weight: 1
-description: Klipps enables you to export your Kindle clippings to a static site. You can open the exported static site in any web browser and share it with your friends.
+description: Export Kindle clippings to a static site. Open the exported HTML file in a web browser.
 keywords_external: ["[Klipps on GitHub](https://github.com/rafalkaron/Klipps)"]
 ---
 

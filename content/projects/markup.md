@@ -1,13 +1,13 @@
 ---
 title: MarkUP
 weight: 4
-description: MarkUP is a CLI tool that enables you to batch-convert Markdown or HTML to DITA.
+description: Batch-convert Markdown or HTML files to DITA. Convert HTML to Markdown or vice versa.
 keywords_external: ["[MarkUP on GitHub](https://github.com/rafalkaron/markup)", "[Markdown Guide](https://www.markdownguide.org/)", "[DITA Specs](http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.html)"]
 ---
 
 ## Interface
 
-```
+```help
 Batch-convert Markdown and HTML files.
 
 positional arguments:

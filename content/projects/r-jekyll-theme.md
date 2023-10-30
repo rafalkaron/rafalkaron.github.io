@@ -1,7 +1,7 @@
 ---
 title: r-jekyll-theme
 weight: 7
-description: "A simple Jekyll theme with left navigation that is perfect for portfolios, resumes, and simple personal blogs. This site used to be based on this theme."
+description: "Jekyll template perfect for portfolios, resumes, and simple personal blogs."
 keywords_external: ["[r-jekyll-theme on GitHub](https://github.com/rafalkaron/r-jekyll-theme)", "[r-jekyll-theme demo](https://rafalkaron.github.io/r-jekyll-theme/)"]
 ---
 

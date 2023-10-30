@@ -33,7 +33,7 @@ MicroPython
 : I run MicroPython on **Raspberry Pi[^1] Pico** boards. The code interacts with databases and APIs, reads sensor data, and manipulates output devices.
 {.text_small}
 
-[^1]: Raspberry Pi is a trademark of Raspberry Pi Ltd
+[^1]: {{% reuse "_reuse/copyr_rpi.md" %}}
 
 InfluxDB
 : I use InfluxDB to gather data from sensors and APIs in my homelab.

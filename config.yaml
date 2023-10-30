@@ -39,6 +39,9 @@ related:
   threshold: 80
   toLower: false
 
+IgnoreFiles:
+  - "content/_reuse"
+
 # Markdown rendering settings
 markup:
   defaultMarkdownHandler: goldmark
