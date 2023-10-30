@@ -1,4 +1,4 @@
-I used these tools to create this project:
+I used the following tools to create this project:
 
 * [VisualStudio Code](https://code.visualstudio.com/) IDE
 * [MicroPico](https://marketplace.visualstudio.com/items?itemName=paulober.pico-w-go) extension

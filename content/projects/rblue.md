@@ -14,7 +14,8 @@ keywords_external: ["[RBlue on GitHub](https://github.com/rafalkaron/rblue)"]
 * Resistors
 * Connecting cables
 * Powerbank
-* Micro-B USB cable
+* Solar cell
+* Micro-B USB cables
 
 [^1]: {{% reuse "_reuse/copyr_rpi.md" %}}
 

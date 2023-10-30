@@ -1,14 +1,14 @@
 ---
 title: RSensor
 weight: 14
-description: "Flood, fire, and temperature sensor that sends Discord messages."
+description: "Flood, fire, and temperature sensor that sends Discord™ messages."
 keywords_external: ["[RSensor on GitHub](https://github.com/rafalkaron/rsensor)"]
 ---
 
 ## Overview
 
 ![RSensor](/media/rsensor/rsensor.jpg)
-{.huge}
+{.huge .border}
 
 ## Hardware
 
@@ -19,6 +19,7 @@ keywords_external: ["[RSensor on GitHub](https://github.com/rafalkaron/rsensor)"
 * Rain sensor (YL-83)
 * Fire sensor (Iduino SE060)
 * Resistors
+* LEDs
 * Connecting cables
 * Micro-B USB cable
 

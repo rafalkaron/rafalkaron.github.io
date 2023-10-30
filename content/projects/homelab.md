@@ -1,7 +1,7 @@
 ---
 title: Homelab
 weight: 12
-description: "Multipurpose hub based on Raspberry Pi 4B+ and the latest Debian."
+description: "Multipurpose hub based on Raspberry Pi 4B+ and the latest Debian stable."
 ---
 
 ## Hardware
@@ -9,28 +9,40 @@ description: "Multipurpose hub based on Raspberry Pi 4B+ and the latest Debian."
 {{% reuse "_reuse/hardware_components.md" %}}
 
 * Raspberry Pi[^1] 4B+
-* Grove - TotemMaker (TKM-GR1)
+* Heatsink case
+* Mini Black HAT Hack3r separator
+* Pico Omnibus
+* TotemMaker (TKM-GR1)
 * DAS (CAMYSAFEDUAL25)
 * Temperature and humidity sensor (AM2302)
-* RFID reader
+* RFID reader (RC522)
 * Breadboard
 * Fan
+* Buzzer
+* Tactile switches
+* Micro HDMI to HDMI adapter
 * Connecting cables
 
 [^1]: {{% reuse "_reuse/copyr_rpi.md" %}}
 
-## Software
+## Services
 
-### Pi-hole
+My home server provides these services in my local network:
 
-### InfluxDB and Grafana
+InfluxDB and Grafana
+: Records and visualizes data from sensors, [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/), and APIs.
 
-### Nginx
+Pi-hole
+: Filters ads on devices connected to my local network.
 
-### Home Assistant
+Samba
+: Transforms my RAID DAS into a NAS. Enables me to browse files on my home server from my development computer.
 
-### Samba
+Jellyfin
+: Runs a media server that serves my favorite music from the past.
 
-### CUPS
+Nginx
+: Runs a website available inside my local network.
 
-### Jellyfin
+CUPS
+: Adds the AirPrint® functionality to my Brother HL-1210W printer.

@@ -1,7 +1,7 @@
 ---
 title: Importaint
 weight: 3
-description: Compile a CSS file with @import rules into a single, resolved CSS file.
+description: Compile CSS files with @import rules into a single, resolved CSS file.
 keywords_external: ["[importaint on GitHub](https://github.com/rafalkaron/importaint)", "[MDN: @import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import)"]
 ---
 

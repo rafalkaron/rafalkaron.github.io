@@ -7,7 +7,7 @@ keywords_external: ["[MarkUP on GitHub](https://github.com/rafalkaron/markup)", 
 
 ## Interface
 
-```
+```help
 Batch-convert Markdown and HTML files.
 
 positional arguments:

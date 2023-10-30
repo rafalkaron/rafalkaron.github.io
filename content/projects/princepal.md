@@ -1,7 +1,7 @@
 ---
 title: PrincePal
 weight: 5
-description: "Quickly preview PDF documents produced with [Prince](https://www.princexml.com/)."
+description: "Quickly preview PDF documents generated with [Prince](https://www.princexml.com/)."
 keywords_external: ["[PrincePal on GitHub](https://github.com/rafalkaron/princepal)", "[Prince Converter](https://www.princexml.com/)"]
 ---
 
