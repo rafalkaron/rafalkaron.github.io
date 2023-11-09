@@ -2,7 +2,7 @@
 title: RKlock
 weight: 11
 description: "Clock and weather station that uses an e-ink display to present data."
-keywords_external: ["[RPi1 on GitHub](https://github.com/rafalkaron/rklock)"]
+keywords_external: ["[RKlock on GitHub](https://github.com/rafalkaron/rklock)"]
 ---
 
 ## Overview
