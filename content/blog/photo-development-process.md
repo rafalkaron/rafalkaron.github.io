@@ -106,10 +106,12 @@ I decreased sky **Saturation** and **Vibrance**. Then, I made the sky colder by 
 ![Masked sky adjustments](media/blog/photo-development-process/affinity-photo-10.PNG)
 {.three-fourth .center}
 
-Another local adjustments were applied to the mountains. I wanted to make them more contrasty and prominent.
+Another local adjustments were applied to the mountains.
 
 ![Masked mountains](media/blog/photo-development-process/affinity-photo-11.PNG)
 {.three-fourth .center}
+
+I decreased **Brightness** and increased **Contrast** of the mask.
 
 ![Masked mountains adjustments](media/blog/photo-development-process/affinity-photo-12.PNG)
 {.three-fourth .center}
@@ -150,7 +152,7 @@ Overall, the photo is more vibrant, detailed, and contrasty than the original on
 
 ## Improvement ideas
 
-The thing I like about photos development is that I can circle back to my edits when I feel like doing it. When I look at the photo, I can see that I may be tempted to do the following in the future:
+The thing I like about photos development is that I can circle back to my edits whenever I feel like doing it. I may be tempted to try the following in the future:
 
 Crop the right side of the photo.
 : There's more negative space between the clouds and mountains than on the left.
@@ -162,4 +164,4 @@ Experiment with split toning
 : This photo could probably be stylized by distinctly colorizing dark and light areas.
 
 Use negative vignette
-: Add white vignette to make the photo feel colder, frozen.
+: Adding a white vignette could make the photo feel colder, frosted.
