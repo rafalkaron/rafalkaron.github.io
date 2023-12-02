@@ -75,7 +75,91 @@ Adjusting **Curves** enabled me to increase contrast in a more controlled way th
 
 ### Enhancements
 
-Now the fun part!
+Now the fun part! Despite increasing the contrast by adjusting the curves, I also increased it slightly globally with the **Contrast** slider. I also increased **Clarity** to make contours more prominent. This enabled me to make clouds and mountains even more detailed.
 
-![Contrast, clarity, saturation, and vibrance](media/blog/photo-development-process/affinity-photo-7.PNG)
+Be careful with **Clarity**. Moving the slider too far may make your photo grainy and noisy!
+{.note_warning}
+
+For colors, I used my old party trick. By increasing **Saturation** and decreasing **Vibrance**, I made the dominant colors more prominent nad muted complimentary colors. This reduced the variance of colors in the photo and doesn't make it desaturated.
+
+![Contrast, clarity, saturation, and vibrance adjustments](media/blog/photo-development-process/affinity-photo-7.PNG)
 {.three-fourth .center}
+
+### Sharpening and noise reduction
+
+Before moving any sliders, I zoomed the photo in to see the details and noise situation better. Because of the low ISO, good light, and cold weather, there wasn't not much noise. This meant that I could didn't necessarily have to worry about moving the **Radius** and **Amount** sliders much.  
+
+Once sharpening adjustments were in place, I went ahead and applied some denoising by increasing **Luminance**.
+
+![Sharpening adjustments](media/blog/photo-development-process/affinity-photo-8.PNG)
+{.three-fourth .center}
+
+### Masking
+
+The heavy sky looked good as it was, but I wanted to make it even more dramatic. I decided to add a linear gradient to mask the sky and make some adjustments.
+
+![Masked sky](media/blog/photo-development-process/affinity-photo-9.PNG)
+{.three-fourth .center}
+
+I decreased sky **Saturation** and **Vibrance**. Then, I made the sky colder by adjusting its **Temperature**. The final adjustment was to bring highlights a bit because changing white balance caused some overexposed areas to appear.
+
+![Masked sky adjustments](media/blog/photo-development-process/affinity-photo-10.PNG)
+{.three-fourth .center}
+
+Another local adjustments were applied to the mountains. I wanted to make them more contrasty and prominent.
+
+![Masked mountains](media/blog/photo-development-process/affinity-photo-11.PNG)
+{.three-fourth .center}
+
+![Masked mountains adjustments](media/blog/photo-development-process/affinity-photo-12.PNG)
+{.three-fourth .center}
+
+### Spot removal
+
+The lone treetop at the bottom left corner really bothered me. I had to remove it with a spot removal tool.
+
+![Spot removal - treetop](media/blog/photo-development-process/affinity-photo-13.PNG)
+{.three-fourth .center}
+
+Then, I removed a couple of dust spots on my DSLR sensor. They gather on the sensor when you swap lenses and use zoom. To remove them, you can either have them cleaned or do that in software. I had no other choice but to do the latter.
+
+If you have a dusty sensor, try not to use small apertures. The smaller the aperture is, the more prominent dust specs are.
+{.note_tip}
+
+![Spot removal - sensor dust](media/blog/photo-development-process/affinity-photo-14.PNG)
+{.three-fourth .center}
+
+### Denoising sky
+
+The photo looked good, but I wanted to make sky smoother. I don't care about losing some details there, so I created a mask and then applied a **Remove noise** filter.
+
+![Sky mask](media/blog/photo-development-process/affinity-photo-15.PNG)
+{.three-fourth .center}
+
+![Remove noise filter](media/blog/photo-development-process/affinity-photo-16.PNG)
+{.three-fourth .center}
+
+## Result
+
+The developed photo looks exactly like I wanted it to look. The sky is still heavy, quite detailed, and not noisy. The mountains are contrasty, with nice contours, and pretty prominent. The foreground is not too distracting.
+
+Overall, the photo is more vibrant, detailed, and contrasty than the original one.
+
+![Final photo](media/blog/photo-development-process/final-photo.jpg)
+{.three-fourth .center}
+
+## Improvement ideas
+
+The thing I like about photos development is that I can circle back to my edits when I feel like doing it. When I look at the photo, I can see that I may be tempted to do the following in the future:
+
+Crop the right side of the photo.
+: There's more negative space between the clouds and mountains than on the left.
+
+Make the foreground less prominent
+: The most interesting things in this photo are the mountains and the clouds. Foreground could be blurred a bit or made less contrasty.
+
+Experiment with split toning
+: This photo could probably be stylized by distinctly colorizing dark and light areas.
+
+Use negative vignette
+: Add white vignette to make the photo feel colder, frozen.
