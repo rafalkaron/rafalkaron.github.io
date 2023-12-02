@@ -1,11 +1,11 @@
 ---
 title: Photo development process
-description: "My regular photo development process for well-exposed and well-composed photographs."
+description: "My regular development process for well-exposed and well-composed RAW photos."
 date: 2023-11-30
 edit: 2023-12-01
 tags: [Photo development]
 categories: [Photography]
-#image: "media/blog/photo-development-process"
+image: "media/blog/photo-development-process/photo-before-after.jpg"
 draft: false
 ---
 
