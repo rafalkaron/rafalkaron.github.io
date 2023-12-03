@@ -1,10 +1,8 @@
 ---
 title: About me
 description: Key information about me.
+thumbnail: "media/home/me-bw.PNG"
 ---
-
-![Me](media/home/me-bw.PNG)
-{.small .center}
 
 ## Content developer
 
