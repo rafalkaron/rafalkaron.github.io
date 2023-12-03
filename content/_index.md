@@ -3,6 +3,9 @@ title: About me
 description: Key information about me.
 ---
 
+![Me](media/home/me-bw.PNG)
+{.small .center}
+
 ## Content developer
 
 Throughout my IT career, I have worn a number of different hats. Nevertheless, my main role has always involved content creation, manipulation, organization, or automation.

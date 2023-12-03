@@ -69,11 +69,11 @@ Sometimes I don't remove natural lens vignetting. However, I don't feel like hav
 ### Curves
 
 Adjusting **Curves** enabled me to increase contrast in a more controlled way than adjusting the global **Contrast** slider. I went with a classic S curve that made very light tones lighter and middle tones darker, without touching blacks too much.
-![S Curve adjustment](media/blog/photo-development-process/affinity-photo-6.PNG)[(image)](media/blog/photo-development-process/affinity-photo-6.PNG)
 
+![S Curve adjustment](media/blog/photo-development-process/affinity-photo-6.PNG)
 {.three-fourth .center}
 
-### Enhancements and White Balance
+### Enhancements
 
 Now the fun part! Despite increasing the contrast by adjusting the curves, I also increased it slightly globally with the **Contrast** slider. I also increased **Clarity** to make contours more prominent. This enabled me to make clouds and mountains even more detailed.
 
