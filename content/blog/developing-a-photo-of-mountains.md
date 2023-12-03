@@ -146,3 +146,6 @@ Experiment with split toning
 
 Add negative vignette
 : Adding a white vignette could make the photo feel colder, frosted.
+
+Experiment with white balance
+: I've actually adjusted the white balance a bit but haven't documented that. Oops! I could make the photo warmer to give it a sepia feel or go the other way and make it even colder.
