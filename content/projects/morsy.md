@@ -7,6 +7,8 @@ keywords_external: ["[Morsy](https://rafalkaron.github.io/morsy/)", "[Morsy on G
 
 ## Interface
 
+Morsy includes a simple web interface inspired by neobrutalism.
+
 !["Morsy interface"](/media/morsy/morsy.png)
 
 ## Technologies
