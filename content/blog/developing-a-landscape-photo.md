@@ -1,7 +1,7 @@
 ---
 title: Developing a landscape photo
 description: "My development process for well-exposed and well-composed RAW landscape photos."
-date: 2023-12-03
+date: 2023-12-04
 tags: [Photo development]
 categories: [Photography]
 image: "media/blog/developing-a-landscape-photo/photo-before-after.jpg"
@@ -16,7 +16,7 @@ Let's have a look at the [original photo](/media/blog/developing-a-landscape-pho
 
 My goal for this edit was to make the photo more lively, vibrant, and punchy. I also wanted to retain the heavy sky element. I think it compliments the mountaintops nicely and makes the composition more interesting. On top of that, I wanted to make the mountains more prominent.
 
-I sometimes don't how I want to develop my photos. In such cases, I often just start developing them and go with the flow. I can always roll back my changes if needed!
+I sometimes don't know how I want to develop my photos. In such cases, I often just go with the flow. I can always roll back my changes if needed!
 {.note}
 
 ## Technicalities
@@ -42,7 +42,7 @@ I started my adjustments with a slight **Exposure** and **Brightness** bump, and
 
 ![Exposure adjustments](media/blog/developing-a-landscape-photo/affinity-photo-2.jpg)
 
-Then, I proceeded with decreasing **Shadows** to make them stand out more and decreasing **Highlights** to recover some details from nearly blown-out areas. This maneuver made the image less punchy and contrasty, but it enabled me to make the clouds and mountains more detailed.
+Then, I proceeded with decreasing **Shadows** to make them stand out more and decreasing **Highlights** to recover some details from nearly blown-out areas. This maneuver made the image less punchy and contrasty, but it also made the clouds and mountains more detailed.
 
 ![Shadows and highlights adjustments](media/blog/developing-a-landscape-photo/affinity-photo-3.jpg)
 
@@ -52,7 +52,7 @@ To compensate for shadows and highlights decrease, I circled back to exposure ad
 
 ### Lens fixes
 
-Now the boring part, I enabled all software fixes for artifacts created by my lens. This fixed pillow distortions, chromatic aberration, and vignetting.
+Now the boring part, I enabled all software fixes for artifacts created by my lens. This fixed pillow distortion, chromatic aberration, and vignetting.
 
 Sometimes I don't remove mechanical vignetting. However, I don't feel like having a dark vignette in this photo.
 {.note_tip}
@@ -67,7 +67,7 @@ Adjusting **Curves** enabled me to increase contrast in a more controlled way th
 
 ### Enhancements
 
-Now the fun part! Despite increasing the contrast by adjusting the curves, I also increased it a tad with the **Contrast** slider. Furthermore, I increased **Clarity** to make contours more prominent. This enabled me to make clouds and mountains even more detailed.
+Now the fun part! Despite increasing the contrast by adjusting the curves, I also increased it globally with the **Contrast** slider. Furthermore, I increased **Clarity** to make contours more prominent. This enabled me to make clouds and mountains even more detailed.
 
 Be careful with **Clarity**. Moving the slider too far may make your photo grainy and noisy!
 {.note_warning}
@@ -78,7 +78,7 @@ For colors, I used my old party trick. By increasing **Saturation** and decreasi
 
 ### Sharpening and noise reduction
 
-Before moving any sliders, I zoomed the photo in to see the details and noise situation better. Because of the low ISO, good light, and cold weather, there wasn't too much noise. This meant that I didn't necessarily have to worry about moving the **Radius** and **Amount** sliders too much.  
+Before moving any sliders, I zoomed the photo in to see the noise situation better. Because of the low ISO, good light, and cold weather, there wasn't too much noise. This meant that I didn't necessarily have to worry about moving the **Radius** and **Amount** sliders too much.  
 
 Once sharpening adjustments were in place, I went ahead and applied some denoising by increasing **Luminance**. I didn't want to make the photo look grainy and feel harsh.
 
@@ -90,7 +90,7 @@ The heavy sky looked good as it was, but I wanted to make it even more dramatic.
 
 ![Masked sky](media/blog/developing-a-landscape-photo/affinity-photo-9.jpg)
 
-I decreased sky **Saturation** and **Vibrance**. Then, I adjusted its **Temperature**. Finally, I decreased highlights a bit because changing white balance caused some overexposed areas to appear.
+I decreased sky **Saturation** and **Vibrance**. Then, I adjusted its **Temperature**. Finally, I decreased **Highlights** a bit because white balance change caused some overexposed areas to appear.
 
 ![Masked sky adjustments](media/blog/developing-a-landscape-photo/affinity-photo-10.jpg)
 
@@ -104,11 +104,11 @@ I decreased **Brightness** and increased **Contrast** of the mask. This made the
 
 ### Spot removal
 
-The lone treetop in the bottom left corner really bothered me. I had to remove it with a spot removal tool.
+The lone treetop at the bottom left corner really bothered me. I had to remove it with a spot removal tool.
 
 ![Spot removal - treetop](media/blog/developing-a-landscape-photo/affinity-photo-13.jpg)
 
-Then, I removed a couple of dust spots from my DSLR sensor. They gather on the sensor when you swap lenses or change zoom level. To remove them, you can either have them cleaned or do that in software. I had no other choice but to do the latter.
+Then, I removed a couple of dust spots from my DSLR sensor. They gather when you swap lenses or change zoom level. To remove them, you can either have them cleaned or apply fixes in software. I had no other choice but to do the latter.
 
 If you have a dusty sensor, try not to use narrow apertures. The narrower the aperture is, the more prominent dust specs in the image are.
 {.note_tip}
@@ -117,7 +117,7 @@ If you have a dusty sensor, try not to use narrow apertures. The narrower the ap
 
 ### Denoising sky
 
-The photo looked good, but I wanted to make the sky smoother. I don't care about losing some details there, so I created a mask and then applied a **Remove noise** filter outside the RAW editor.
+The photo looked good at this point, but I wanted to make the sky smoother. I don't care about losing some details there, so I created a mask and then applied a **Remove noise** filter outside the RAW editor.
 
 ![Sky mask](media/blog/developing-a-landscape-photo/affinity-photo-15.jpg)
 
@@ -133,10 +133,10 @@ Overall, the photo is more vibrant, detailed, and contrasty than the original on
 
 ## Further development ideas
 
-The thing I like about photo development is that I can circle back to my edits whenever I feel like doing it. I may be tempted to try the following in the future:
+The thing I like about developing photos is that I can circle back to my edits whenever I feel like doing it. I may be tempted to try the following in the future:
 
 Crop the right side of the photo.
-: There's more negative space between the clouds and mountains on the right than on the left.
+: There's more negative space between the clouds and mountains on the right side than on the left side.
 
 Make the foreground less prominent
 : The most interesting things in this photo are the mountains and the clouds. Foreground could be blurred a bit or made less contrasty.
@@ -148,4 +148,4 @@ Add negative vignette
 : Adding a white vignette could make the photo feel colder, frosted.
 
 Experiment with white balance
-: I've actually adjusted the white balance a bit but haven't documented that. Oops! I could make the photo warmer to give it a sepia feel or go the other way and make it even colder.
+: I've actually adjusted the white balance a bit, but I haven't documented that. Oops! I could make the photo warmer to give it a sepia feel or go the other way and make it even colder.
