@@ -20,14 +20,14 @@ For personal purposes, I use **Visual Studio Code**, **GitHub**, and **Markdown*
 
 I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.  
 
-I won't lie, I prompt Bing for inspiration from time to time. I've found it extremely helpful for composing shell scripts that run in my homelab.
+I won't lie, I prompt AI for inspiration from time to time. I've found it extremely helpful for composing shell scripts that run in my homelab.
 
 ### Technologies
 
 I am keen on finding ways to automate, optimize, and generate reports to save my coworkers from opening terminals or doing repetitive work.
 
 Python
-: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow.
+: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow. I also use Python for automations in GitHub Actions.
 {.text_small}
 
 MicroPython
@@ -36,11 +36,11 @@ MicroPython
 
 [^1]: {{% reuse "_reuse/copyr_rpi.md" %}}
 
-InfluxDB
-: I use InfluxDB to gather data from sensors and APIs in my homelab.
+Databases
+: I use **InfluxDB** to gather data from sensors and APIs in my homelab. For some side projects, I use **MongoDB**.
 
 Bash
-: I use Bash scripts to automate repetitive tasks on my macOS and Linux machines.
+: I use Bash scripts to automate repetitive tasks on my macOS and Linux machines. Shell scripts are also very handy for automations in GitHub Actions.
 {.text_small}
 
 Apart from the backend activities, I also enjoy styling and templating websites and other outputs.
@@ -148,7 +148,7 @@ I am keen on cutting-edge technologies and learning about creative business mode
 
 ### Technology
 
-I believe that any content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting. I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
+I believe that every content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting. I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
 
 Here are some of the resources that enable me to stay up to date with the latest tech news:
 
@@ -181,7 +181,6 @@ Blogs
 
 YouTube channels
 
-* [Linus Tech Tips](https://www.youtube.com/@LinusTechTips)
 * [TechLinked](https://www.youtube.com/@techlinked)
 * [ShortCircuit](https://www.youtube.com/@ShortCircuit)
 * [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP)
@@ -219,7 +218,7 @@ I spent half of my childhood in a local bicycle shop and I love cycling. I can a
 
 ### Running
 
-I usually run alone or with my friend. However, I broke my routine by taking part in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
+I usually run on my own or with my friend. However, I broke my routine by taking part in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
 
 !["Business Run 2018" medal](/media/home/business_run.jpg)
 {.huge .center}

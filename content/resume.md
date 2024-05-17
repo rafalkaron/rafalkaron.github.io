@@ -94,7 +94,7 @@ I have been also involved in creating sample content and templates for demo purp
 
 I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. I develop internal tools in Python professionally.
 
-I am familiar with these backend technologies:
+I am familiar with these technologies:
 
 * Python
 * MicroPython
@@ -117,10 +117,15 @@ I am familiar with these backend technologies:
 * Nginx
 * Telegraf
 * Docker
+* InfluxDB
+* MongoDB
+* C# [^4]
+* GitHub Workflows
 {.items}
 
 [^2]: My JavaScript knowledge is limited. I can implement basic functionalities to websites and create simple web apps.
 [^3]: My XSL knowledge is limited. However, I can apply simple [DITA-OT](https://www.dita-ot.org/) customizations.
+[^4]: My C# knowledge is very limited and restricted to making simple edits in application logic.
 
 ### Agile methodologies
 
@@ -150,6 +155,7 @@ As a former English teacher, I enjoy taking part in initiatives like:
 * Organizing open days
 * Consulting
 * Demoing new features
+* Technical mentoring
 {.items}
 
 ### Industry knowledge
@@ -201,6 +207,7 @@ As an information developer and coder with a number of side-skills, I am familia
 * Adobe Experience Manager (AEM)/Adobe Guides
 * Author-it
 * Schematron
+* Vale
 * Moodle
 * Adobe Acrobat Pro
 * Microsoft Word
@@ -231,11 +238,13 @@ As an information developer and coder with a number of side-skills, I am familia
 * GitHub
 * GitHub Actions
 * GitHub Pages
+* GitHub Desktop
 {.items}
 
 #### CLI applications and utilities
 
 * (neo)vim
+* nano
 * git
 * pre-commit
 * ssh
@@ -243,9 +252,7 @@ As an information developer and coder with a number of side-skills, I am familia
 * cron
 * cat
 * bat
-* top
-* htop
-* bpytop
+* top/htop/bptop
 * (image)magick
 * pyenv
 * rbenv
@@ -286,6 +293,7 @@ As an information developer and coder with a number of side-skills, I am familia
 ### Operating systems
 
 * Windows
+* Windows Subsystem for Linux (WSL)
 * macOS
 * Fedora
 * Ubuntu
