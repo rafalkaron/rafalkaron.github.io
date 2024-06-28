@@ -6,19 +6,19 @@ avatar: "media/home/me-bw.PNG"
 
 ## Content developer
 
-Throughout my IT career, I have worn a number of different hats. Nevertheless, my main role has always involved content creation, manipulation, organization, or automation.
+Throughout my IT career, I have embraced various roles, with the primary focus on content creation, manipulation, organization, migration, generation, and automation.
 
-My profession goes by different names, including: technical writer, technical documentation specialist, information developer, or content developer. Since I have had an opportunity to develop and manipulate a wide variety of assets, I find the most general *content developer* term the most apt to describe my occupation.
+My profession is known by many titles, including technical writer, technical documentation specialist, information developer, or content developer. Given the diverse range of my responsibilities and expertise, I believe *content developer* best captures the essence of my work.
 
 ### Key tools and technologies
 
-Professionally, I have mainly worked with **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** that support **DITA XML**. I am also familiar with the **RST** format and I have had an opportunity to work with **Author-it**.
+Professionally, I have mainly utilized **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** that support **DITA XML**. Additionally, I have extensive experience with the industry-standard **DITA XML**, **oXygen XML Editor**, and **GitHub Desktop** stack. I am also familiar with the **RST** format and have worked with **Author-it**. For internal documentation, I have mainly used **Confluence** and **Markdown** in various **README** files.
 
-For personal purposes, I use **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it with [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I used [Jekyll](https://jekyllrb.com/) to generate static sites.
+In my personal projects, I rely on **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it using [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I have used [Jekyll](https://jekyllrb.com/) to generate static sites.
 
 ## Coder
 
-I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.  
+I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.  
 
 I won't lie, I prompt AI for inspiration from time to time. I've found it extremely helpful for composing shell scripts that run in my homelab.
 
