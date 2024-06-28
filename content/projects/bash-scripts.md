@@ -5,6 +5,28 @@ description: "Bash scripts that automate repetitive tasks on macOS and Linux mac
 keywords_external: ["[Scripts on GitHub](https://github.com/rafalkaron/scripts)"]
 ---
 
+## macOS
+
+update
+: Updates brew and pipx packages.
+
+discord_message
+: Sends a Discord message to a defined channel.
+
+to_base64
+: Converts a string to Base64.
+
+## Ubuntu
+
+pyenv_install
+: Works around an issue with openssl and pyenv.
+
+update
+: Updates apt, snap, flatpak, brew, and pipx packages.
+
+backup
+: Backs-up the entire system to a specific external drive with Timeshift.
+
 ## Fedora
 
 font_search
@@ -27,22 +49,3 @@ search_packages
 
 update
 : Updates dnf, flatpak, and brew packages.
-
-## macOS
-
-update
-: Updates brew and pipx packages.
-
-discord_message
-: Sends a discord message to a defined channel.
-
-to_base64
-: Converts a string to Base64.
-
-## Ubuntu
-
-pyenv_install
-: Works around an issue with openssl and pyenv.
-
-update
-: Updates apt, snap, flatpak, brew, and pipx packages.

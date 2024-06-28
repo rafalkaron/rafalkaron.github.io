@@ -11,10 +11,10 @@ keywords_external: ["[Hosty on GitHub](https://github.com/rafalkaron/Hosty)", "[
 
 ## Use cases
 
-Hosty comes in handy if you want to locally:
+Hosty simplifies the process of locally hosting websites and web applications for various purposes:
 
-* Test or troubleshoot a website or a web app
-* Preview a static site  
+Testing and troubleshooting
+: Quickly test and diagnose issues with websites or web apps in a controlled environment.
 
-Some static sites or web help systems may need to be hosted on a web server to display content correctly.
-{.note_tip}
+Previewing websites
+: Preview static websites before deployment, ensuring they display correctly.

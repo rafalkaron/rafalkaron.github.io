@@ -27,7 +27,7 @@ description: "Multipurpose hub based on Raspberry Pi 4B+ and the latest Debian s
 
 ## Services
 
-My home server provides these services in my local network:
+My homelab server enhances my local network with the following services:
 
 InfluxDB and Grafana
 : Records and visualizes data from sensors, [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/), and APIs.
@@ -45,4 +45,4 @@ Nginx
 : Runs a website available inside my local network.
 
 CUPS
-: Adds the AirPrint® functionality to my Brother HL-1210W printer.
+: Adds the AirPrint® functionality for my oldish Brother HL-1210W printer.

@@ -1,6 +1,6 @@
 ---
 title: Resume
-description: I have worked for large, medium, and startup-sized IT companies. I feel comfortable in corporate and startup environments.
+description: I have experience working across large, medium, and startup-sized IT companies, and I thrive in both corporate and startup environments.
 ---
 
 ## Professional experience
@@ -9,11 +9,11 @@ description: I have worked for large, medium, and startup-sized IT companies. I 
 
 ## Key skills
 
-I am a content developer who leads, codes, tests, and acts as a consultant.
+I am a versatile content developer skilled in writing, leadership, coding, testing, and consulting roles.
 
 ### Content development, management, and publication
 
-I have created a wide variety of guides, design documents, and media assets. I have also been involved in various content conversion projects.
+My portfolio includes a wide array of guides, design documents, and media assets, alongside active participation in various content conversion initiatives.
 
 #### Markup languages
 
@@ -25,11 +25,11 @@ I am comfortable with these markup languages:
 * RST[^1]
 {.items}
 
-[^1]: My RST knowledge is basic. I have worked with that format in projects that involved [Sphinx](https://www.sphinx-doc.org/).
+[^1]: My familiarity with RST is foundational, gained through projects utilizing [Sphinx](https://www.sphinx-doc.org/) for documentation.
 
 #### Output formats
 
-My documentation has been published to a number of formats, including:
+I have delivered documentation across a range of formats, including:
 
 * PDFs
 * Word documents
@@ -42,7 +42,7 @@ My documentation has been published to a number of formats, including:
 
 #### Asset types
 
-As a content developer, I have been responsible for delivering different kinds of guides and product documentation, including:
+As a content developer, I have overseen the creation and delivery of diverse guides and product documentation, encompassing:
 
 * User guides
 * Internal guides
@@ -56,7 +56,7 @@ As a content developer, I have been responsible for delivering different kinds o
 
 #### Information architecture
 
-I believe that every content developer should be an information architect as well. I have been involved in the development and maintenance of:
+I believe in integrating information architecture into the role of a content developer. I have experience in developing and maintaining:
 
 * Style guides
 * Asset inventories
@@ -67,7 +67,7 @@ I believe that every content developer should be an information architect as wel
 
 #### Media
 
-A well-written documentation should be understandable in plain text. However, developing and embedding media in deliverables makes them appealing to the end user. To make my documentation pleasant to look at, I have developed:
+While documentation should be clear in plain text, incorporating media enhances user appeal. I specialize in developing visually engaging documentation, utilizing:
 
 * GIFs
 * Videos
@@ -77,11 +77,11 @@ A well-written documentation should be understandable in plain text. However, de
 
 #### User interface
 
-I have been involved in user interface text reviews. The goal of UI text reviews is to make graphical user interfaces leaner, unambiguous, and easier to navigate for the end user. I also helped software development teams with writing log messages. I am familiar with **Figma**.
+I have extensive experience in conducting user interface (UI) text reviews with a focus on streamlining graphical interfaces for clarity and ease of navigation. Additionally, I have assisted software development teams in crafting clear and effective log messages. I am familiar with **Figma**.
 
 ### Sales
 
-During my startup adventure, I composed responses for the following document types sent by prospects:
+During my tenure at a startup, I crafted responses for various document types requested by prospects, including:
 
 * Request for proposal (RFP)
 * Request for quotation (RFQ)
@@ -92,7 +92,7 @@ I have been also involved in creating sample content and templates for demo purp
 
 ### Coding
 
-I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. I develop internal tools in Python professionally.
+I am a self-taught coder. Currently, I develop my side projects independently and collaborate with software developers at work. Professionally, I specialize in developing internal tools using Python.
 
 I am familiar with these technologies:
 
@@ -123,9 +123,9 @@ I am familiar with these technologies:
 * GitHub Workflows
 {.items}
 
-[^2]: My JavaScript knowledge is limited. I can implement basic functionalities to websites and create simple web apps.
+[^2]: I use JavaScript to implement basic functionalities into websites and create simple web apps. I have been developing React frontends with the assistance of GitHub Copilot.
 [^3]: My XSL knowledge is limited. However, I can apply simple [DITA-OT](https://www.dita-ot.org/) customizations.
-[^4]: My C# knowledge is very limited and restricted to making simple edits in application logic.
+[^4]: My proficiency in C# is limited to basic edits in application logic.
 
 ### Agile methodologies
 
@@ -239,6 +239,7 @@ As an information developer and coder with a number of side-skills, I am familia
 * GitHub Actions
 * GitHub Pages
 * GitHub Desktop
+* GitHub Copilot
 {.items}
 
 #### CLI applications and utilities

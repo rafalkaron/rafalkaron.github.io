@@ -6,28 +6,28 @@ avatar: "media/home/me-bw.PNG"
 
 ## Content developer
 
-Throughout my IT career, I have worn a number of different hats. Nevertheless, my main role has always involved content creation, manipulation, organization, or automation.
+Throughout my IT career, I have embraced various roles, with the primary focus on content creation, manipulation, organization, migration, generation, and automation.
 
-My profession goes by different names, including: technical writer, technical documentation specialist, information developer, or content developer. Since I have had an opportunity to develop and manipulate a wide variety of assets, I find the most general *content developer* term the most apt to describe my occupation.
+My profession is known by many titles, including technical writer, technical documentation specialist, information developer, or content developer. Given the diverse range of my responsibilities and expertise, I believe *content developer* best captures the essence of my work.
 
 ### Key tools and technologies
 
-Professionally, I have mainly worked with **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** that support **DITA XML**. I am also familiar with the **RST** format and I have had an opportunity to work with **Author-it**.
+Professionally, I have mainly utilized **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** that support **DITA XML**. Additionally, I have extensive experience with the industry-standard **DITA XML**, **oXygen XML Editor**, and **GitHub Desktop** stack. I am also familiar with the **RST** format and have worked with **Author-it**. For internal documentation, I have mainly used **Confluence** and **Markdown** in various **README** files.
 
-For personal purposes, I use **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it with [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I used [Jekyll](https://jekyllrb.com/) to generate static sites.
+In my personal projects, I rely on **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it using [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I have used [Jekyll](https://jekyllrb.com/) to generate static sites.
 
 ## Coder
 
-I am a self-taught coder and a fan of [Stack Overflow](https://www.stackoverflow.com). Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.  
+I am a self-taught coder. Currently, I develop my side projects independently and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**, though I can switch to **Vim** and quit it if needed.
 
-I won't lie, I prompt AI for inspiration from time to time. I've found it extremely helpful for composing shell scripts that run in my homelab.
+I won't lie—I prompt AI for inspiration from time to time. I have found it extremely helpful for composing shell scripts that run in my homelab and for GitHub Actions.
 
 ### Technologies
 
 I am keen on finding ways to automate, optimize, and generate reports to save my coworkers from opening terminals or doing repetitive work.
 
 Python
-: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow. I also use Python for automations in GitHub Actions.
+: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow. I also use Python for automation in GitHub Actions.
 {.text_small}
 
 MicroPython
@@ -40,7 +40,7 @@ Databases
 : I use **InfluxDB** to gather data from sensors and APIs in my homelab. For some side projects, I use **MongoDB**.
 
 Bash
-: I use Bash scripts to automate repetitive tasks on my macOS and Linux machines. Shell scripts are also very handy for automations in GitHub Actions.
+: I use Bash scripts to automate repetitive tasks on my macOS and Linux machines. Shell scripts are also very handy for automation in GitHub Actions.
 {.text_small}
 
 Apart from the backend activities, I also enjoy styling and templating websites and other outputs.
@@ -50,12 +50,12 @@ HTML
 {.text_small}
 
 CSS
-: I am skilled in developing CSS for different viewports, including: responsive websites, web apps, and printed media.  
+: I am skilled in developing CSS for different viewports, including responsive websites, web apps, and printed media.  
 I am also familiar with **LESS** and **SCSS**.
 {.text_small}
 
 JavaScript
-: I use JavaScript to implement basic functionalities to websites and create simple web apps.
+: I use JavaScript to implement basic functionalities into websites and create simple web apps. Additionally, I have been developing **React** frontends with the assistance of **GitHub Copilot**.
 {.text_small}
 
 XML
@@ -64,13 +64,13 @@ XML
 
 ### Content generators
 
- As a content developer who uses DITA professionally, I aim at separating content from styling and making it as semantic as possible.
+ As a content developer who uses DITA professionally, I aim to separate content from styling and make it as semantic as possible.
 
 DITA Open Toolkit
 : My limited **XSL** knowledge enables me to develop simple [DITA-OT](https://www.dita-ot.org/) customizations.
 
 Prince XML
-: I have a vast experience in styling PDF templates with HTML, CSS, a touch of XSLT, and the [Prince XML](https://www.princexml.com/) converter. To reduce the code maintenance time, I always make my templates modular, customizable, and extensible.
+: I have extensive experience in styling PDF templates with HTML, CSS, a touch of XSLT, and the [Prince XML](https://www.princexml.com/) converter. To reduce the code maintenance time, I always make my templates modular, customizable, and extensible.
 {.text_small}
 
 Hugo
@@ -78,7 +78,7 @@ Hugo
 {.text_small}
 
 Jekyll
-: I have a considerable experience in designing, developing, and styling Jekyll sites. My legacy website used Jekyll under the hood.
+: I have considerable experience in designing, developing, and styling Jekyll sites. My legacy website used Jekyll under the hood.
 {.text_small}
 
 Gatsby
@@ -99,7 +99,7 @@ Sphinx
 
 ### Platforms
 
-On daily basis, I run **macOS**. Professionally, I have been using **Windows** machines.  
+On a daily basis, I run **macOS**. Professionally, I have been using **Windows** machines.  
 To stay in the Linux loop, I  run **Ubuntu** (formerly **Fedora**) on my vintage MacBook Air and **Debian** on my **Raspberry Pi[^1] 4B**.
 
 ## Agile leader
@@ -108,21 +108,21 @@ Does Scrum work in every content development team? Yes and no. Does every conten
 
 ### Methodology
 
-Scrum was designed as a work framework with an emphasis on software development teams. While it is possible to treat [docs as code](https://www.writethedocs.org/guide/docs-as-code/), content development and software development are still significantly different processes. The difference between them is particularly prominent if content creators are not regular members of software development teams.
+Scrum was designed as a work framework with an emphasis on software development teams. While it is possible to treat [docs as code](https://www.writethedocs.org/guide/docs-as-code/), content development and software development are still significantly different processes. This difference is particularly prominent if content creators are not regular members of software development teams.
 
-I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great basis for building an Agile framework in any development team. However, I often take the liberty of proposing, test-driving, and implementing various alterations to the approach suggested in the guide. If the docs tend to be developed on an ad hoc basis, I am not afraid of gravitating towards the Kanban framework.
+I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great basis for building an Agile framework in any development team. However, I often take the liberty of proposing, test-driving, and implementing various alterations to the approach suggested in the guide. If the docs tend to be developed on an ad hoc basis, I am not afraid to gravitate towards the Kanban framework.
 
 ### Tools
 
 As a person who always has a clean desk, I enjoy well-curated backlogs, clearly defined items, flawless filters, and model burndown charts.
 
-My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I also find **Confluence** a good and well-integrated addition to Jira, which can serve as an internal knowledge base.
+My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I find **Confluence** a good and well-integrated addition to Jira, serving as an internal knowledge base.
 
 I am an ardent supporter of keeping everything related to work management in a single place. In the long run, an avalanche of shared sheets is not a maintainable approach.
 
 ## Tester
 
-Documenting software often involves clicking through the GUI or using the CLI. Because of that, I often find:
+Documenting software often involves clicking through the GUI or using the CLI. Because of that, I frequently discover:
 
 * Curious bugs
 * UX issues
@@ -134,28 +134,28 @@ As an Agile leader, I can log bugs, improvements, and feature suggestions like a
 
 Once a teacher, always a teacher.
 
-Having a master's degree and experience in teaching English helps me to:
+Having a master's degree in teaching English and experience in education, I excel at:
 
-* Clearly formulate procedural steps
-* Onboard new employees and conduct workshops
-* Efficiently communicate with my team and SMEs
-* Confidently demonstrate how software or processes work
-* Act as a consultant
+* Formulating clear procedural steps
+* Onboarding new employees and conducting workshops
+* Efficiently communicating with my team and subject matter experts (SMEs)
+* Confidently demonstrating software or processes
+* Acting as a consultant
 
 ## After hours
 
-I am keen on cutting-edge technologies and learning about creative business models. I can appreciate art and design in many forms. I enjoy individual sports and books that broaden my worldview. I am a minimalist who requires a clean room to work or relax. I value privacy, so I am not overly active on social media.
+I am passionate about cutting-edge technologies and intrigued by creative business models. I appreciate art and design in various forms. In my leisure time, I engage in individual sports and read books that broaden my worldview. As a minimalist, I thrive in a clean and organized environment for work and relaxation. Privacy is important to me, which is why I maintain a low profile on social media.
 
 ### Technology
 
-I believe that every content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting. I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
+I believe every content developer in the IT sector should be a tech geek. Documenting what interests you is far more engaging. I enjoy discussing and ranting about tech trends and modern business models.
 
-Here are some of the resources that enable me to stay up to date with the latest tech news:
+Here are some resources that keep me informed about the latest in tech:
 
 Podcasts
 
-* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 * [Talk Python To Me](https://talkpython.fm/)
+* [Python Bytes Podcast](https://pythonbytes.fm/)
 * [TechWriter.koduje()](https://techwriterkoduje.pl/)
 * [Na Podsłuchu](https://niebezpiecznik.pl/podcast/)
 {.items}
@@ -163,7 +163,6 @@ Podcasts
 Newsletters
 
 * [unknow.news](https://unknow.news/)
-* [CyberExpress](https://niebezpiecznik.substack.com/)
 * [Various RSS feeds in NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
 {.items}
 
@@ -182,19 +181,18 @@ Blogs
 YouTube channels
 
 * [TechLinked](https://www.youtube.com/@techlinked)
-* [ShortCircuit](https://www.youtube.com/@ShortCircuit)
 * [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP)
 * [Fireship](https://www.youtube.com/@Fireship)
 * [iFixit](https://www.youtube.com/@iFixitYourself)
 {.items}
 
-I also enjoy fixing or upgrading hardware with my [iFixit](https://ifixit.com) kit and a Leatherman multitool. I believe that the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement is a way to go.
+I also enjoy hardware repair and upgrades using my [iFixit](https://ifixit.com) kit and a Leatherman multitool. I strongly support the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement.
 
 ### Photography
 
-I realize that nowadays any decent smartphone is capable of capturing and processing stunning photos. At the same time, I still enjoy setting up my Canon DSLR and manually developing RAW photos in Lightroom or Affinity Photo.  
+While smartphones are capable of stunning photos, I still enjoy using my Canon DSLR and manually developing RAW photos in Affinity Photo.
 
-I shoot various kinds of photos ranging from portraits through macros to abstracts. If you are curious about my approach to photography, feel free to visit my [Unsplash](https://unsplash.com/@rafalkaron) profile.
+I shoot various types of photos, from portraits and macros to abstracts. For more of my photography, visit my [Unsplash profile](https://unsplash.com/@rafalkaron).
 
 ![A photo of Kona](/media/home/kona2.jpg)
 ![A photo of Kona](/media/home/kona.jpg)
@@ -202,7 +200,7 @@ I shoot various kinds of photos ranging from portraits through macros to abstrac
 
 ### Hiking
 
-I find mountain hiking refreshing. It also nicely integrates with my passion for photography. Luckily, there is an abundance of beautiful mountains to climb and photograph in my area.
+Mountain hiking is refreshing and complements my passion for photography. Conveniently, there are plenty of beautiful mountains to explore and photograph in my area.
 
 ![A photo from Ciemniak](/media/home/ciemniak.jpg)
 ![Bieszczady](/media/home/bieszczady.jpg)
@@ -210,7 +208,7 @@ I find mountain hiking refreshing. It also nicely integrates with my passion for
 
 ### Cycling
 
-I spent half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike. I cycle on my road bicycle most often but I also have an old-school mountain bike.
+I developed a love for cycling by spending time in a local bicycle shop during my childhood. I can assemble and fix bikes. My road bicycle sees the most use, but I also enjoy riding an old-school mountain bike.
 
 ![Bike photo](/media/home/bicycle1.jpg)
 ![Bike photo](/media/home/bicycle2.jpg)
@@ -218,14 +216,14 @@ I spent half of my childhood in a local bicycle shop and I love cycling. I can a
 
 ### Running
 
-I usually run on my own or with my friend. However, I broke my routine by taking part in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
+I usually run on my own or with my friend, but I broke my routine by participating in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
 
 !["Business Run 2018" medal](/media/home/business_run.jpg)
 {.huge .center}
 
 ### Origami
 
-I find paper folding both intricate and relaxing. Also, paper figurines make fantastic gifts and minimalistic home or office decor.
+Paper folding is both intricate and relaxing. Origami figurines make fantastic gifts and minimalistic home or office decor.
 
 ![Origami owl](/media/home/origami_snail.jpg)
 ![Origami fish](/media/home/origami_fish.jpg)
