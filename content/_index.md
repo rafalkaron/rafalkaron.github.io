@@ -190,9 +190,9 @@ I also enjoy hardware repair and upgrades using my [iFixit](https://ifixit.com) 
 
 ### Photography
 
-I realize that nowadays any decent smartphone is capable of capturing and processing stunning photos. At the same time, I still enjoy setting up my Canon DSLR and manually developing RAW photos in Lightroom or Affinity Photo.  
+While smartphones are capable of stunning photos, I still enjoy using my Canon DSLR and manually developing RAW photos in Affinity Photo.
 
-I shoot various kinds of photos ranging from portraits through macros to abstracts. If you are curious about my approach to photography, feel free to visit my [Unsplash](https://unsplash.com/@rafalkaron) profile.
+I shoot various types of photos, from portraits and macros to abstracts. For more of my photography, visit my [Unsplash profile](https://unsplash.com/@rafalkaron).
 
 ![A photo of Kona](/media/home/kona2.jpg)
 ![A photo of Kona](/media/home/kona.jpg)
@@ -200,7 +200,7 @@ I shoot various kinds of photos ranging from portraits through macros to abstrac
 
 ### Hiking
 
-I find mountain hiking refreshing. It also nicely integrates with my passion for photography. Luckily, there is an abundance of beautiful mountains to climb and photograph in my area.
+Mountain hiking is refreshing and complements my passion for photography. Conveniently, there are plenty of beautiful mountains to explore and photograph in my area.
 
 ![A photo from Ciemniak](/media/home/ciemniak.jpg)
 ![Bieszczady](/media/home/bieszczady.jpg)
@@ -208,7 +208,7 @@ I find mountain hiking refreshing. It also nicely integrates with my passion for
 
 ### Cycling
 
-I spent half of my childhood in a local bicycle shop and I love cycling. I can assemble and fix a bike. I cycle on my road bicycle most often but I also have an old-school mountain bike.
+I developed a love for cycling by spending time in a local bicycle shop during my childhood. I can assemble and fix bikes. My road bicycle sees the most use, but I also enjoy riding an old-school mountain bike.
 
 ![Bike photo](/media/home/bicycle1.jpg)
 ![Bike photo](/media/home/bicycle2.jpg)
@@ -216,14 +216,14 @@ I spent half of my childhood in a local bicycle shop and I love cycling. I can a
 
 ### Running
 
-I usually run on my own or with my friend. However, I broke my routine by taking part in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
+I usually run on my own or with my friend, but I broke my routine by participating in [Business Run 2018](https://live.sts-timing.pl/businessrun2018/person.php?n=63&d=1) as one of the **Motorola Solutions Gatekeepers** runners.
 
 !["Business Run 2018" medal](/media/home/business_run.jpg)
 {.huge .center}
 
 ### Origami
 
-I find paper folding both intricate and relaxing. Also, paper figurines make fantastic gifts and minimalistic home or office decor.
+Paper folding is both intricate and relaxing. Origami figurines make fantastic gifts and minimalistic home or office decor.
 
 ![Origami owl](/media/home/origami_snail.jpg)
 ![Origami fish](/media/home/origami_fish.jpg)
