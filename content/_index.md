@@ -27,7 +27,7 @@ I won't lie—I prompt AI for inspiration from time to time. I have found it ext
 I am keen on finding ways to automate, optimize, and generate reports to save my coworkers from opening terminals or doing repetitive work.
 
 Python
-: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow. I also use Python for automations in GitHub Actions.
+: I am a self-taught Python coder. I use Python in my side projects and to develop internal tools at work. To make coding easier, I've implemented **mypy**, **Ruff**, and **Black** into my workflow. I also use Python for automation in GitHub Actions.
 {.text_small}
 
 MicroPython
@@ -40,7 +40,7 @@ Databases
 : I use **InfluxDB** to gather data from sensors and APIs in my homelab. For some side projects, I use **MongoDB**.
 
 Bash
-: I use Bash scripts to automate repetitive tasks on my macOS and Linux machines. Shell scripts are also very handy for automations in GitHub Actions.
+: I use Bash scripts to automate repetitive tasks on my macOS and Linux machines. Shell scripts are also very handy for automation in GitHub Actions.
 {.text_small}
 
 Apart from the backend activities, I also enjoy styling and templating websites and other outputs.
@@ -50,7 +50,7 @@ HTML
 {.text_small}
 
 CSS
-: I am skilled in developing CSS for different viewports, including: responsive websites, web apps, and printed media.  
+: I am skilled in developing CSS for different viewports, including responsive websites, web apps, and printed media.  
 I am also familiar with **LESS** and **SCSS**.
 {.text_small}
 
@@ -99,7 +99,7 @@ Sphinx
 
 ### Platforms
 
-On daily basis, I run **macOS**. Professionally, I have been using **Windows** machines.  
+On a daily basis, I run **macOS**. Professionally, I have been using **Windows** machines.  
 To stay in the Linux loop, I  run **Ubuntu** (formerly **Fedora**) on my vintage MacBook Air and **Debian** on my **Raspberry Pi[^1] 4B**.
 
 ## Agile leader
@@ -136,7 +136,7 @@ Once a teacher, always a teacher.
 
 Having a master's degree in teaching English and experience in education, I excel at:
 
-* Clearly formulating procedural steps
+* Formulating clear procedural steps
 * Onboarding new employees and conducting workshops
 * Efficiently communicating with my team and subject matter experts (SMEs)
 * Confidently demonstrating software or processes
