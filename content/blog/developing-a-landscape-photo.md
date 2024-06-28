@@ -105,7 +105,7 @@ I decreased **Brightness** and increased **Contrast** of the mask. This made the
 
 ### Spot removal
 
-The lone treetop at the bottom left corner really bothered me. I had to remove it with a spot-removal tool.
+The lone treetop at the bottom left corner bothered me. I had to remove it with a spot-removal tool.
 
 ![Spot removal - treetop](media/blog/developing-a-landscape-photo/affinity-photo-13.jpg)
 
@@ -149,4 +149,4 @@ Add negative vignette
 : Adding a white vignette could make the photo feel colder, and frosted.
 
 Experiment with white balance
-: I've actually adjusted the white balance a bit, but I haven't documented that. Oops! I could make the photo warmer to give it a sepia feel or go the other way and make it even colder.
+: I've adjusted the white balance a bit, but I haven't documented that. Oops! I could make the photo warmer to give it a sepia feel or go the other way and make it even colder.
