@@ -64,13 +64,13 @@ XML
 
 ### Content generators
 
- As a content developer who uses DITA professionally, I aim at separating content from styling and making it as semantic as possible.
+ As a content developer who uses DITA professionally, I aim to separate content from styling and make it as semantic as possible.
 
 DITA Open Toolkit
 : My limited **XSL** knowledge enables me to develop simple [DITA-OT](https://www.dita-ot.org/) customizations.
 
 Prince XML
-: I have a vast experience in styling PDF templates with HTML, CSS, a touch of XSLT, and the [Prince XML](https://www.princexml.com/) converter. To reduce the code maintenance time, I always make my templates modular, customizable, and extensible.
+: I have extensive experience in styling PDF templates with HTML, CSS, a touch of XSLT, and the [Prince XML](https://www.princexml.com/) converter. To reduce the code maintenance time, I always make my templates modular, customizable, and extensible.
 {.text_small}
 
 Hugo
@@ -78,7 +78,7 @@ Hugo
 {.text_small}
 
 Jekyll
-: I have a considerable experience in designing, developing, and styling Jekyll sites. My legacy website used Jekyll under the hood.
+: I have considerable experience in designing, developing, and styling Jekyll sites. My legacy website used Jekyll under the hood.
 {.text_small}
 
 Gatsby
