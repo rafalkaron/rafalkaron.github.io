@@ -108,15 +108,15 @@ Does Scrum work in every content development team? Yes and no. Does every conten
 
 ### Methodology
 
-Scrum was designed as a work framework with an emphasis on software development teams. While it is possible to treat [docs as code](https://www.writethedocs.org/guide/docs-as-code/), content development and software development are still significantly different processes. The difference between them is particularly prominent if content creators are not regular members of software development teams.
+Scrum was designed as a work framework with an emphasis on software development teams. While it is possible to treat [docs as code](https://www.writethedocs.org/guide/docs-as-code/), content development and software development are still significantly different processes. This difference is particularly prominent if content creators are not regular members of software development teams.
 
-I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great basis for building an Agile framework in any development team. However, I often take the liberty of proposing, test-driving, and implementing various alterations to the approach suggested in the guide. If the docs tend to be developed on an ad hoc basis, I am not afraid of gravitating towards the Kanban framework.
+I consider the [Scrum Guide](https://www.Scrumguides.org/index.html) a great basis for building an Agile framework in any development team. However, I often take the liberty of proposing, test-driving, and implementing various alterations to the approach suggested in the guide. If the docs tend to be developed on an ad hoc basis, I am not afraid to gravitate towards the Kanban framework.
 
 ### Tools
 
 As a person who always has a clean desk, I enjoy well-curated backlogs, clearly defined items, flawless filters, and model burndown charts.
 
-My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I also find **Confluence** a good and well-integrated addition to Jira, which can serve as an internal knowledge base.
+My weapon of choice is **Jira**; however, I am open to any alternative WMS solutions. For some teams, I find **Confluence** a good and well-integrated addition to Jira, serving as an internal knowledge base.
 
 I am an ardent supporter of keeping everything related to work management in a single place. In the long run, an avalanche of shared sheets is not a maintainable approach.
 
