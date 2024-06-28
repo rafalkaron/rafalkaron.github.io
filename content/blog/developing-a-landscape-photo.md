@@ -2,6 +2,7 @@
 title: Developing a landscape photo
 description: "My development process for well-exposed and well-composed RAW landscape photos."
 date: 2023-12-04
+edit: 2024-06-28
 tags: [Photo development]
 categories: [Photography]
 image: "media/blog/developing-a-landscape-photo/photo-before-after.jpg"
@@ -10,7 +11,7 @@ draft: false
 
 ## Original photo
 
-Let's have a look at the [original photo](/media/blog/developing-a-landscape-photo/original-photo.cr2). It's fairly well exposed and composed. There are no completely black or overexposed areas. However, because of the heavy clouds, it looks a little bit dark and dull.
+Let's have a look at the [original photo](/media/blog/developing-a-landscape-photo/original-photo.cr2). It's fairly well-exposed and composed. There are no completely black or overexposed areas. However, because of the heavy clouds, it looks a little bit dark and dull.
 
 ![Original photo](media/blog/developing-a-landscape-photo/original-photo.jpg)
 
@@ -21,7 +22,7 @@ I sometimes don't know how I want to develop my photos. In such cases, I often j
 
 ## Technicalities
 
-I captured this photo with **Canon EOS 50D** body and **Canon EF-S 17-85 mm f/4-5.6 IS USM** lens. There was a plenty of light, so I could use low **ISO (200)** and fairly high **aperture (f/16)** to get the most from the scene. With **1/250 exposure time**, 61mm focal length, and optical stabilization, I could comfortably take this photo without a tripod.
+I captured this photo with a **Canon EOS 50D** body and **Canon EF-S 17-85 mm f/4-5.6 IS USM** lens. There was plenty of light, so I could use low **ISO (200)** and fairly high **aperture (f/16)** to get the most from the scene. With **1/250 exposure time**, 61mm focal length, and optical stabilization, I could comfortably take this photo without a tripod.
 
 When it's cold, camera sensors tend to generate less noise. Experiment with higher-than-usual ISO values in winter!
 {.note_tip}
@@ -38,7 +39,7 @@ I opened the CR2 file in a dedicated RAW editor built into Affinity Photo. This 
 
 ### Exposure
 
-I started my adjustments with a slight **Exposure** and **Brightness** bump, and a small **Black point** increase to recover some contrast on the other side of histogram. I decided that I'm happy with these minimal adjustments because I didn't want to overexpose any bright areas or make blacks too prominent.
+I started my adjustments with a slight **Exposure** and **Brightness** bump, and a small **Black point** increase to recover some contrast on the other side of the histogram. I decided that I was happy with these minimal adjustments because I didn't want to overexpose any bright areas or make blacks too prominent.
 
 ![Exposure adjustments](media/blog/developing-a-landscape-photo/affinity-photo-2.jpg)
 
@@ -46,7 +47,7 @@ Then, I proceeded with decreasing **Shadows** to make them stand out more and de
 
 ![Shadows and highlights adjustments](media/blog/developing-a-landscape-photo/affinity-photo-3.jpg)
 
-To compensate for shadows and highlights decrease, I circled back to exposure adjustments and increased **Exposure** and **Brightness**. This way, I ended up with a fairly punchy and contrasty image, without any major losses in details.
+To compensate for the shadows and highlights decrease, I circled back to exposure adjustments and increased **Exposure** and **Brightness**. This way, I ended up with a fairly punchy and contrasty image, without any major losses in details.
 
 ![Exposure adjustments again](media/blog/developing-a-landscape-photo/affinity-photo-4.jpg)
 
@@ -90,7 +91,7 @@ The heavy sky looked good as it was, but I wanted to make it even more dramatic.
 
 ![Masked sky](media/blog/developing-a-landscape-photo/affinity-photo-9.jpg)
 
-I decreased sky **Saturation** and **Vibrance**. Then, I adjusted its **Temperature**. Finally, I decreased **Highlights** a bit because white balance change caused some overexposed areas to appear.
+I decreased sky **Saturation** and **Vibrance**. Then, I adjusted its **Temperature**. Finally, I decreased **Highlights** a bit because the white balance change caused some overexposed areas to appear.
 
 ![Masked sky adjustments](media/blog/developing-a-landscape-photo/affinity-photo-10.jpg)
 
@@ -104,13 +105,13 @@ I decreased **Brightness** and increased **Contrast** of the mask. This made the
 
 ### Spot removal
 
-The lone treetop at the bottom left corner really bothered me. I had to remove it with a spot removal tool.
+The lone treetop at the bottom left corner really bothered me. I had to remove it with a spot-removal tool.
 
 ![Spot removal - treetop](media/blog/developing-a-landscape-photo/affinity-photo-13.jpg)
 
-Then, I removed a couple of dust spots from my DSLR sensor. They gather when you swap lenses or change zoom level. To remove them, you can either have them cleaned or apply fixes in software. I had no other choice but to do the latter.
+Then, I removed a couple of dust spots from my DSLR sensor. They gather when you swap lenses or change the zoom level. To remove them, you can either have them cleaned or apply fixes in software. I had no other choice but to do the latter.
 
-If you have a dusty sensor, try not to use narrow apertures. The narrower the aperture is, the more prominent dust specs in the image are.
+If you have a dusty sensor, try not to use narrow apertures. The narrower the aperture is, the more prominent the dust specs in the image are.
 {.note_tip}
 
 ![Spot removal - sensor dust](media/blog/developing-a-landscape-photo/affinity-photo-14.jpg)
@@ -139,13 +140,13 @@ Crop the right side of the photo.
 : There's more negative space between the clouds and mountains on the right side than on the left side.
 
 Make the foreground less prominent
-: The most interesting things in this photo are the mountains and the clouds. Foreground could be blurred a bit or made less contrasty.
+: The most interesting things in this photo are the mountains and the clouds. The foreground could be blurred a bit or made less contrasty.
 
 Experiment with split toning
 : This photo could be stylized by distinctly colorizing dark and light areas.
 
 Add negative vignette
-: Adding a white vignette could make the photo feel colder, frosted.
+: Adding a white vignette could make the photo feel colder, and frosted.
 
 Experiment with white balance
 : I've actually adjusted the white balance a bit, but I haven't documented that. Oops! I could make the photo warmer to give it a sepia feel or go the other way and make it even colder.
