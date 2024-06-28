@@ -18,9 +18,9 @@ In my personal projects, I rely on **Visual Studio Code**, **GitHub**, and **Mar
 
 ## Coder
 
-I am a self-taught coder. Currently, I develop my side projects on my own and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**. I can quit **Vim** if needed.  
+I am a self-taught coder. Currently, I develop my side projects independently and collaborate with software developers at work. My IDE of choice is **Visual Studio Code**, though I can switch to **Vim** and quit it if needed.
 
-I won't lie, I prompt AI for inspiration from time to time. I've found it extremely helpful for composing shell scripts that run in my homelab.
+I won't lie—I prompt AI for inspiration from time to time. I have found it extremely helpful for composing shell scripts that run in my homelab and for GitHub Actions.
 
 ### Technologies
 
@@ -55,7 +55,7 @@ I am also familiar with **LESS** and **SCSS**.
 {.text_small}
 
 JavaScript
-: I use JavaScript to implement basic functionalities to websites and create simple web apps.
+: I use JavaScript to implement basic functionalities to websites and create simple web apps. Additionally, I have been developing **React** frontends with the assistance of **GitHub Copilot**.
 {.text_small}
 
 XML
