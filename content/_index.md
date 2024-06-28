@@ -144,7 +144,7 @@ Having a master's degree in teaching English and experience in education, I exce
 
 ## After hours
 
-I am keen on cutting-edge technologies and learning about creative business models. I can appreciate art and design in many forms. I enjoy individual sports and books that broaden my worldview. I am a minimalist who requires a clean room to work or relax. I value privacy, so I am not overly active on social media.
+I am passionate about cutting-edge technologies and intrigued by creative business models. I appreciate art and design in various forms. In my leisure time, I engage in individual sports and read books that broaden my worldview. As a minimalist, I thrive in a clean and organized environment for work and relaxation. Privacy is important to me, which is why I maintain a low profile on social media.
 
 ### Technology
 
