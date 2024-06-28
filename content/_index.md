@@ -148,14 +148,14 @@ I am passionate about cutting-edge technologies and intrigued by creative busine
 
 ### Technology
 
-I believe that every content developer in the IT sector should be a tech geek. It is much easier to document things that you find interesting. I enjoy discussing and ranting about tech trends and modern business models with my fellow content developers.
+I believe every content developer in the IT sector should be a tech geek. Documenting what interests you is far more engaging. I enjoy discussing and ranting about tech trends and modern business models.
 
-Here are some of the resources that enable me to stay up to date with the latest tech news:
+Here are some resources that keep me informed about the latest in tech:
 
 Podcasts
 
-* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 * [Talk Python To Me](https://talkpython.fm/)
+* [Python Bytes Podcast](https://pythonbytes.fm/)
 * [TechWriter.koduje()](https://techwriterkoduje.pl/)
 * [Na Podsłuchu](https://niebezpiecznik.pl/podcast/)
 {.items}
@@ -163,7 +163,6 @@ Podcasts
 Newsletters
 
 * [unknow.news](https://unknow.news/)
-* [CyberExpress](https://niebezpiecznik.substack.com/)
 * [Various RSS feeds in NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
 {.items}
 
@@ -182,13 +181,12 @@ Blogs
 YouTube channels
 
 * [TechLinked](https://www.youtube.com/@techlinked)
-* [ShortCircuit](https://www.youtube.com/@ShortCircuit)
 * [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP)
 * [Fireship](https://www.youtube.com/@Fireship)
 * [iFixit](https://www.youtube.com/@iFixitYourself)
 {.items}
 
-I also enjoy fixing or upgrading hardware with my [iFixit](https://ifixit.com) kit and a Leatherman multitool. I believe that the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement is a way to go.
+I also enjoy hardware repair and upgrades using my [iFixit](https://ifixit.com) kit and a Leatherman multitool. I strongly support the [Right to repair](https://www.ifixit.com/Right-to-Repair/Intro) movement.
 
 ### Photography
 
