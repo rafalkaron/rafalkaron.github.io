@@ -239,6 +239,7 @@ As an information developer and coder with a number of side-skills, I am familia
 * GitHub Actions
 * GitHub Pages
 * GitHub Desktop
+* GitHub Copilot
 {.items}
 
 #### CLI applications and utilities
