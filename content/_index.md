@@ -122,7 +122,7 @@ I am an ardent supporter of keeping everything related to work management in a s
 
 ## Tester
 
-Documenting software often involves clicking through the GUI or using the CLI. Because of that, I often find:
+Documenting software often involves clicking through the GUI or using the CLI. Because of that, I frequently discover:
 
 * Curious bugs
 * UX issues
@@ -134,13 +134,13 @@ As an Agile leader, I can log bugs, improvements, and feature suggestions like a
 
 Once a teacher, always a teacher.
 
-Having a master's degree and experience in teaching English helps me to:
+Having a master's degree in teaching English and experience in education, I excel at:
 
-* Clearly formulate procedural steps
-* Onboard new employees and conduct workshops
-* Efficiently communicate with my team and SMEs
-* Confidently demonstrate how software or processes work
-* Act as a consultant
+* Clearly formulating procedural steps
+* Onboarding new employees and conducting workshops
+* Efficiently communicating with my team and subject matter experts (SMEs)
+* Confidently demonstrating software or processes
+* Acting as a consultant
 
 ## After hours
 
