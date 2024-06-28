@@ -123,7 +123,7 @@ I am familiar with these technologies:
 * GitHub Workflows
 {.items}
 
-[^2]: I use JavaScript to implement basic functionalities to websites and create simple web apps. I have been developing React frontends with the assistance of GitHub Copilot.
+[^2]: I use JavaScript to implement basic functionalities into websites and create simple web apps. I have been developing React frontends with the assistance of GitHub Copilot.
 [^3]: My XSL knowledge is limited. However, I can apply simple [DITA-OT](https://www.dita-ot.org/) customizations.
 [^4]: My proficiency in C# is limited to basic edits in application logic.
 

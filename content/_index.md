@@ -55,7 +55,7 @@ I am also familiar with **LESS** and **SCSS**.
 {.text_small}
 
 JavaScript
-: I use JavaScript to implement basic functionalities to websites and create simple web apps. Additionally, I have been developing **React** frontends with the assistance of **GitHub Copilot**.
+: I use JavaScript to implement basic functionalities into websites and create simple web apps. Additionally, I have been developing **React** frontends with the assistance of **GitHub Copilot**.
 {.text_small}
 
 XML
