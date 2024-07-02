@@ -27,9 +27,6 @@ Menus:
     - Name: "Blog"
       URL: "/blog/"
       weight: 4
-    - Name: "Resume"
-      URL: "/resume/"
-      weight: 5
 
 # Enable related links/See alsos
 related:
