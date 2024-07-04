@@ -14,7 +14,7 @@ My profession is known by many titles, including technical writer, technical doc
 
 Professionally, I have mainly utilized **oXygen XML Editor** integrated with web-based **Composite Content Management Systems (CCMSs)** that support **DITA XML**. Additionally, I have extensive experience with the industry-standard **DITA XML**, **oXygen XML Editor**, and **GitHub Desktop** stack. I am also familiar with the **RST** format and have worked with **Author-it**. For internal documentation, I have mainly used **Confluence** and **Markdown** in various **README** files.
 
-In my personal projects, I rely on **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it using [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Formerly, I have used [Jekyll](https://jekyllrb.com/) to generate static sites.
+In my personal projects, I rely on **Visual Studio Code**, **GitHub**, and **Markdown**. I generate content with [Hugo](https://gohugo.io) and publish it using [GitHub Pages](https://pages.github.com/) and [GitHub Actions](https://github.com/features/actions). Previously, I have utilized [Jekyll](https://jekyllrb.com/) for static sites generation.
 
 ## Coder
 
@@ -64,7 +64,7 @@ XML
 
 ### Content generators
 
- As a content developer who uses DITA professionally, I aim to separate content from styling and make it as semantic as possible.
+As a content developer specializing in DITA XML, I prioritize separating content from styling for semantic clarity.
 
 DITA Open Toolkit
 : My limited **XSL** knowledge enables me to develop simple [DITA-OT](https://www.dita-ot.org/) customizations.
@@ -104,7 +104,7 @@ To stay in the Linux loop, I  run **Ubuntu** (formerly **Fedora**) on my vintage
 
 ## Agile leader
 
-Does Scrum work in every content development team? Yes and no. Does every content development team need an Agile leader? Yes, it does.
+While I advocate for Agile methodologies like Scrum and Kanban, I tailor approaches to fit content development contexts, emphasizing clear backlogs, filters, and burndown charts. I favor Jira for task management and view Confluence as a valuable knowledge base supplement.
 
 ### Methodology
 
@@ -122,25 +122,13 @@ I am an ardent supporter of keeping everything related to work management in a s
 
 ## Tester
 
-Documenting software often involves clicking through the GUI or using the CLI. Because of that, I frequently discover:
-
-* Curious bugs
-* UX issues
-* UI inconsistencies
-
-As an Agile leader, I can log bugs, improvements, and feature suggestions like a tester. Additionally, my technical writing expertise enables me to clearly define steps to reproduce (STRs) and acceptance criteria (AC).
+I approach software documentation with a keen eye for usability issues, frequently identifying bugs and UI inconsistencies. My technical writing background enables precise bug logging and acceptance criteria definition.
 
 ## Teacher
 
 Once a teacher, always a teacher.
 
-Having a master's degree in teaching English and experience in education, I excel at:
-
-* Formulating clear procedural steps
-* Onboarding new employees and conducting workshops
-* Efficiently communicating with my team and subject matter experts (SMEs)
-* Confidently demonstrating software or processes
-* Acting as a consultant
+With a master's degree in teaching English, I excel in onboarding, workshops, and communicating with stakeholders, demonstrating software effectively and acting as a consultant.
 
 ## After hours
 
